@@ -1,0 +1,218 @@
+<html>
+<head>
+	<title>Java Users Group - February 2008</title>
+	<link rel="stylesheet" type="text/css" href="../../css/javasig.css" title="Style">
+</head>
+
+<body>
+
+<table align="center" class="smallFont" border="0">
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="center" valign="top"><a href="javascript:window.close()"><img src="../../images/new1-05.gif" alt="Back to Java Users Group Home" title="Back to Java Users Group Home" border="0"></a></td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="center" valign="top"><a href="javascript:window.print()"><img src="../../images/print.gif" alt="Print this page" title="Print this page" border="0"></a></td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+</table>
+
+<h1 align="center">Java Users Group</h1>
+<h2 align="center">February 2008 Meeting Information</h2>
+
+<table width="100%">
+	<tr>
+		<td style="font-family: Courier; font-size: 18pt; font-weight: bold">February 12, 2008</td>
+	</tr>
+	<tr bgcolor="#000066">
+		<td style="font-family: Courier; font-size: 18pt; font-weight: bold; color: #ffffff">Technical Overview of iScript</td>
+	</tr>
+</table>
+
+<p/>
+
+<table width="100%" border="0">
+	<tr>
+		<td>
+			As we celebrate our 7-year anniversary this month, Manny Goyenechea will introduce his own personal scripting language called <code>iScript</code>, an open source object-oriented scripting language written in Java that mixes the best of JavaScript, Basic Script, Ruby, Groovy, PHP, Python, Perl and other scripting languages in rich new ways.
+
+			<pre><code>
+&lt;html&gt;
+	&lt;head&gt;
+		&lt;title&gt;Simple Entry Form&lt;/title&gt;
+	&lt;/head&gt;
+
+&lt;body&gt;
+	<%
+	name = request.getParameter("name")
+	if name = null then
+		oldvalue = request.getParameter("oldvalue")
+	if oldvalue = null then
+		oldvalue = ""
+	end
+	%>
+	Please enter your name&lt;br&gt;
+	&lt;form action="./simpleform.isp" method="get"&gt;
+		&lt;input type="text" name="name" value="<%= oldvalue %>"&gt;&lt;br&gt;
+		&lt;input type="submit" value="Submit"&gt;
+		&lt;input type="reset" value="Reset"&gt;
+	&lt;/form&gt;
+
+	<% elseif name = "" then %>
+		&lt;h1&gt;Please enter your name&lt;/h1&gt;&lt;br&gt;
+		[ &lt;a href="./simpleform.isp?oldvalue=<%= name %>"&gt;try again&lt;/a&gt; ]
+	<% else %>
+		&lt;h1&gt;Hello <% =name %>&lt;/h1&gt;&lt;br&gt;
+		[ &lt;a href="./simpleform.isp?oldvalue=<%= name %>"&gt;try again&lt;/a&gt; ]
+	<% end %>
+&lt;/body&gt;
+&lt;/html&gt;
+			</code></pre>
+
+			<code>iScript</code> is also a general purpose markup language and/or preprocessor that can be used as a powerful source code generator, application generator, and data-access-layer (DAL) generator for any language and database using just simple templates and scripts that have full, seamless access to the Java APIs and data types.
+			<code>iScript</code>, when combined with a Servlet engine like Tomcat, can be used like Java Server Pages (JSP) to dynamically generate HTML pages from simple templates and script files.
+			<code>iScript</code> is also a general purpose scripting language that can be used with <code>iBuild</code>, an open source development environment, <code>iPP</code>, an open source preprocessor, and <code>iMake</code>, an open source make processor, and to rapidly prototype compelling solutions.
+			The following example generates XML from a database.
+			Notice which tags are used and can be dynamically changed, as needed, so in this example <code>#* *#</code> is used for meta tags instead of the default <code><% %></code> meta tags, but any other start/send character sequence can be used as well.
+
+			<pre><code>
+<?xml version='1.0'?>
+#*
+import java.sql.DriverManager
+
+	ConnectionString = "jdbc:odbc:DRIVER={Microsoft Access Driver (*.mdb)};DBQ=/dev.stec/stec/iScript/templates/sp/databases/sample.mdb"
+	Query = "select * from employees"
+	connection = DriverManager.getConnection(ConnectionString)
+
+try
+	statement = connection.createStatement()
+
+try
+	resultSet = statement.executeQuery("select * from employees")
+
+try
+	metaData = resultSet.getMetaData();
+	columnCount = metaData.getColumnCount()
+*#
+<ResultSet>
+<RowSet>
+	#* while resultSet.next() *#
+	<Row>
+		<ColumnSet>
+			#* for columnIndex = 1 to columnCount *#
+			<Column TableName='#*=metaData.getTableName(columnIndex)*#' ColumnName='#*=metaData.getColumnName(columnIndex)*#'>#*=resultSet.getString(columnIndex)*#</Column>
+			#* next *#
+		</ColumnSet>
+	</Row>
+	#* loop *#
+</RowSet>
+</ResultSet>
+#*
+finally
+	resultSet.close()
+	end
+finally
+	statement.close()
+	end
+finally
+	connection.close()
+	end
+*#
+			</code></pre>
+
+			The current development has it effortlessly supporting a myriad of computer programming language syntax and formatting styles.
+			So it handles this:
+
+			<pre><code>
+abs(i)
+	{
+	if (i < 0)
+		{
+		return -i;
+		}
+	else
+		{
+		return i;
+		}
+	}
+			</code></pre>
+
+			as easy as this:
+
+			<pre><code>
+function abs(i)
+	if i < 0 then
+		return -i
+	else
+		return i
+	end if
+end function
+			</code></pre>
+
+			or any combination of a myriad of syntax and formatting styles from a growing list of scripting languages without it even raising a blink of an eye.
+			One of the goals is to regardless of whether ones background is FORTRAN, BASIC, C, C++, Java, C#, Ruby, Groovy, Python, PHP, JavaScript, VBScript or some other scripting or programming language you will feel comfortable and at home and be productive without having to re-learn everything.  From day one, a developer can start with the syntax and formatting style they are comfortable using and expand from there.
+			Future development in <code>iScript</code> may see it used as a general purpose batch language or even supporting keywords and syntax of a number of human languages.
+			So the above could have been written in Spanish as this:
+
+			<pre><code>
+funci�n abs(n�mero)
+	si n�mero < 0 entonces
+		vuelta -n�mero
+	si no
+		vuelta n�mero
+	acaba si
+acaba funci�n
+			</code></pre>
+
+			or any other spoken or written language.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table width="100%" border="0">
+	<tr>
+		<td>
+			Meetings are held every second Tuesday of the month at the <a href="http://www.acgnj.org/directns/sprs.html">Scotch Plains Rescue Squad</a> second floor meeting hall starting promptly at 7:30pm.
+			Meetings are open to the public, and visitors are encouraged to join <a href="http://www.acgnj.org/">ACGNJ</a>.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table align="left" class="smallFont" border="0">
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top" style="font-weight: bold">SIG Leader</td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top">Mike Redlich</td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top" style="font-weight: bold">E-Mail</td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top"><a href="mailto:mike@redlich.net">mike@redlich.net</a></td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top" style="font-weight: bold">Phone:</td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top">(908) 246-0410</td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+	<tr>
+		<td align="center" class="tinyFont" colspan="5">
+			<script language="JavaScript">
+				<!-- hide the script from older browsers
+				document.write("This page last modified on " + document.lastModified)
+				// end -->
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>

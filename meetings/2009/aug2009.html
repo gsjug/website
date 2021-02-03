@@ -1,0 +1,119 @@
+<html>
+<head>
+	<title>Java Users Group - August 2009</title>
+	<link rel="stylesheet" type="text/css" href="../../css/javasig.css" title="Style">
+</head>
+
+<body>
+
+<table align="center" class="smallFont" border="0">
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="center" valign="top"><a href="javascript:window.close()"><img src="../../images/new1-05.gif" alt="Back to Java Users Group Home" title="Back to Java Users Group Home" border="0"></a></td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="center" valign="top"><a href="javascript:window.print()"><img src="../../images/print.gif" alt="Print this page" title="Print this page" border="0"></a></td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+</table>
+
+<h1 align="center">Java Users Group</h1>
+<h2 align="center">August 2009 Meeting Information</h2>
+
+<table width="100%">
+	<tr>
+		<td style="font-family: Courier; font-size: 18pt; font-weight: bold">August 11, 2009</td>
+	</tr>
+	<tr bgcolor="#000066">
+		<td style="font-family: Courier; font-size: 18pt; font-weight: bold; color: #ffffff">Special Project: java.util.Scanner</td>
+	</tr>
+</table>
+
+<p/>
+
+<table width="100%" border="0">
+	<tr>
+		<td>
+			For this year's special project, <a href="http://www.burd.org/" target="_blank">Barry Burd</a> has offered the following suggestion:
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table width="100%" border="0">
+	<tr>
+		<td>
+			Java 1.5 introduced the <code>java.util.Scanner</code> class for reading tokens from a string, a file, or an input stream.
+			The class's easy-to-use methods were convenient for writing about text-only programs in "<a href="http://users.drew.edu/bburd/JavaForDummies/" target="_blank">Java For Dummies</a>."
+			To get an <code>int</code> value from the keyboard, execute <code>myScanner.nextInt()</code>; to get a <code>double</code> value, execute <code>myScanner.nextDouble()</code>; to get a line of text from the keyboard, execute <code>myScanner.nextLine()</code>; and so on.
+			Almost every primitive type has its own <code>nextXXX()</code> and <code>hasNextXXX()</code> methods.
+			The one exception is Java's <code>char</code> type.
+			The <code>Scanner</code> class doesn't have <code>nextChar()</code> or <code>hasNextChar()</code> methods.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table width="100%" border="0">
+	<tr>
+		<td>
+			My goal in "<a href="http://users.drew.edu/bburd/JavaForDummies/" target="_blank">Java For Dummies</a>" is to make the code as readable as possible.
+			If an example reads a single character (as in "<span style="font-style: italic">Do you want to continue [y/n]?</span>"), I'd like the code to contain a simple <code>nextChar()</code> call instead of a complicated workaround (such as <code>myScanner.findWithinHorizon(".",0).charAt(0)</code>).
+			I can't afford to have my readers become sidetracked by unintuitive solutions.
+			I'm trying to write <code>nextChar()</code> and <code>hasNextChar()</code> methods and submit the code for inclusion in Java 7.
+			Surprisingly, this brings up all kinds of subtle issues, like trying to subclass the final <code>Scanner</code> class, trying to use methods in the proprietary <code>sun.xxx.xxx</code> packages, and writing a solution that's robust and efficient.
+			(Remember, if I submit this to the Java Community Process, I don't want to be embarrassed.)
+			In this session, Barry will present the problem that I'm trying to solve, and get your input on alternative solutions.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table width="100%" border="0">
+	<tr>
+		<td>
+			Meetings are held every second Tuesday of the month at the <a href="http://www.acgnj.org/directns/sprs.html">Scotch Plains Rescue Squad</a> second floor meeting hall starting promptly at 7:30pm.
+			Meetings are open to the public, and visitors are encouraged to join <a href="http://www.acgnj.org/">ACGNJ</a>.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table align="left" class="smallFont" border="0">
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top" style="font-weight: bold">SIG Leader</td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top">Mike Redlich</td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top" style="font-weight: bold">E-Mail</td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top"><a href="mailto:mike@redlich.net">mike@redlich.net</a></td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+	<tr>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top" style="font-weight: bold">Phone:</td>
+		<td valign="center" valign="top">&bull;</td>
+		<td align="left" valign="top">(908) 246-0410</td>
+		<td valign="center" valign="top">&bull;</td>
+	</tr>
+	<tr>
+		<td align="center" class="tinyFont" colspan="5">
+			<script language="JavaScript">
+				<!-- hide the script from older browsers
+				document.write("This page last modified on " + document.lastModified)
+				// end -->
+			</script>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
