@@ -1,0 +1,29 @@
+				<p class="bs-docs-sidebar">
+				<h3>Java can be Weird: Things You Learn While Studying for a Java Certification</h3>
+				</p>
+				<p class="bs-docs-sidebar">
+					presented by <a href="https://www.linkedin.com/in/selikoff" target="_blank">Scott Selikoff</a>.
+				</p>
+				<p class="lead">
+					<strong>Abstract:</strong>
+				</p>
+				<p class="bs-docs-sidebar">
+					Have you ever considered getting a Java certification but weren't sure how to start?
+					Will obtaining a certification make you a better developer?
+				</p>
+				<p class="bs-docs-sidebar">
+					In the first half of this talk, Scott will explore these topics and more, including some tips on how to prepare for a certification exam.
+					He will also discuss various options if you already have an older certification.
+				</p>
+				<p class="bs-docs-sidebar">
+					The second half of this talk will cover oddities in the Java language, often encountered while studying for a certification.
+					Scott expects to trick at least a few of you, as some of these results can be surprising.
+				</p>
+				<p class="lead">
+					<strong>Bio:</strong>
+				</p>
+				<p class="bs-docs-sidebar">
+					Scott Selikoff has been a professional Java Enterprise developer for over 20 years.
+					He's the co-author of the four best selling Java certifications for Java 8 and 11, with his next book expected to be released in June 2020.
+					He operates a software consulting firm that provides expertise to businesses in the tri-state NYC area.
+				</p>
