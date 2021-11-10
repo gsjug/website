@@ -7,6 +7,16 @@
     <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/feb2022.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/feb2022.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/barry-burd.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/barry-burd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/chandra-guntur.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/chandra-guntur.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/michael-redlich.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/michael-redlich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/nehal-sardana.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/nehal-sardana.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/paul-syers.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/paul-syers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -24,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/profiles/michael-redlich.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1iFLC8863ELOsyhiJY6YEYJHHF9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -169,6 +182,9 @@
       <workItem from="1635349213473" duration="1728000" />
       <workItem from="1635844235290" duration="2543000" />
       <workItem from="1635939891625" duration="1422000" />
+      <workItem from="1636197937585" duration="403000" />
+      <workItem from="1636538712596" duration="2513000" />
+      <workItem from="1636562443812" duration="3012000" />
     </task>
     <servers />
   </component>
