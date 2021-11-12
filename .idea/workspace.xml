@@ -8,15 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2022/feb2022.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/feb2022.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2022/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/barry-burd.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/barry-burd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/chandra-guntur.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/chandra-guntur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/michael-redlich.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/michael-redlich.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/nehal-sardana.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/nehal-sardana.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/paul-syers.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/paul-syers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2021/dec2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2021/dec2021.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -184,7 +177,9 @@
       <workItem from="1635939891625" duration="1422000" />
       <workItem from="1636197937585" duration="403000" />
       <workItem from="1636538712596" duration="2513000" />
-      <workItem from="1636562443812" duration="3012000" />
+      <workItem from="1636562443812" duration="3300000" />
+      <workItem from="1636668592787" duration="763000" />
+      <workItem from="1636708777548" duration="1663000" />
     </task>
     <servers />
   </component>
