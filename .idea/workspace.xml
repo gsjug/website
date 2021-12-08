@@ -8,18 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/barry-burd.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/barry-burd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/caitlin-mahoney.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/caitlin-mahoney.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/chandra-guntur.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/chandra-guntur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/dan-moore.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/dan-moore.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/diane-liporace.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/diane-liporace.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/erin-schnabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/erin-schnabel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/michael-redlich.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/michael-redlich.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/neha-sardana.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/neha-sardana.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/paul-syers.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/paul-syers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/scott-selikoff.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/scott-selikoff.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -192,7 +181,8 @@
       <workItem from="1636708777548" duration="1978000" />
       <workItem from="1636756331809" duration="939000" />
       <workItem from="1637414929155" duration="723000" />
-      <workItem from="1638707311768" duration="3172000" />
+      <workItem from="1638707311768" duration="3468000" />
+      <workItem from="1638964568943" duration="322000" />
     </task>
     <servers />
   </component>
