@@ -7,8 +7,6 @@
     <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -190,7 +188,7 @@
       <workItem from="1639442183306" duration="958000" />
       <workItem from="1639527579742" duration="1938000" />
       <workItem from="1640104673824" duration="1085000" />
-      <workItem from="1640797274347" duration="721000" />
+      <workItem from="1640797274347" duration="940000" />
     </task>
     <servers />
   </component>
