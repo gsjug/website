@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/apr2022.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/apr2022.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/mar2022.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/mar2022.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/venkat-subramaniam.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/venkat-subramaniam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -199,7 +205,8 @@
       <workItem from="1643046561155" duration="213000" />
       <workItem from="1643063079687" duration="493000" />
       <workItem from="1644313946818" duration="656000" />
-      <workItem from="1645102057879" duration="2161000" />
+      <workItem from="1645102057879" duration="2196000" />
+      <workItem from="1645524239334" duration="2580000" />
     </task>
     <servers />
   </component>
