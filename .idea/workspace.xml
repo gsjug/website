@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -273,7 +274,8 @@
       <workItem from="1675645907700" duration="36000" />
       <workItem from="1675688958678" duration="934000" />
       <workItem from="1675702217063" duration="3117000" />
-      <workItem from="1676195804438" duration="449000" />
+      <workItem from="1676195804438" duration="469000" />
+      <workItem from="1677232754613" duration="1425000" />
     </task>
     <servers />
   </component>
