@@ -10,7 +10,10 @@
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/mar2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/mar2023.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/cameron-purdy.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/cameron-purdy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -277,7 +280,8 @@
       <workItem from="1677232754613" duration="1436000" />
       <workItem from="1677848687320" duration="3203000" />
       <workItem from="1677868137673" duration="507000" />
-      <workItem from="1678283733147" duration="1047000" />
+      <workItem from="1678283733147" duration="1247000" />
+      <workItem from="1678652510090" duration="1668000" />
     </task>
     <servers />
   </component>
