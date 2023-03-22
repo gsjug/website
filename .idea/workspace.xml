@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="https://www.linkedin.com/in/jonkschneider">
+    <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="https://twitter.com/dchuyko">
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/apr2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/apr2023.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/sep2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/sep2023.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/cameron-purdy.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/cameron-purdy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -278,6 +285,8 @@
       <workItem from="1678283733147" duration="1247000" />
       <workItem from="1678652510090" duration="2431000" />
       <workItem from="1678725255330" duration="5000" />
+      <workItem from="1679414039248" duration="1821000" />
+      <workItem from="1679474081804" duration="4240000" />
     </task>
     <servers />
   </component>
