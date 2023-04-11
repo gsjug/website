@@ -24,7 +24,7 @@
 		<td style="font-family: Courier; font-size: 18pt; font-weight: bold">May 9, 2023</td>
 	</tr>
 	<tr bgcolor="#000066">
-		<td style="font-family: Courier; font-size: 18pt; font-weight: bold; color: #ffffff">A Presentation on Streaming</td>
+		<td style="font-family: Courier; font-size: 18pt; font-weight: bold; color: #ffffff">Modern Data Streaming Pipelines</td>
 	</tr>
 </table>
 
@@ -43,7 +43,7 @@
 <table width="100%" border="0">
 	<tr>
 		<td>
-			Please stay tuned for details...
+			In this session, I will show you some best practices I have discovered over the last seven years in building data streaming applications including IoT, CDC, Logs, and more.
 		</td>
 	</tr>
 </table>
@@ -53,6 +53,10 @@
 <table width="100%" border="0">
 	<tr>
 		<td>
+			In my modern approach, we utilize several Apache frameworks to maximize the best features of all.
+			We often start with <a href="https://nifi.apache.org/" target="_blank">Apache NiFi</a> as the orchestrator of streams flowing into <a href="https://kafka.apache.org/" target="_blank">Apache Kafka</a>.
+			From there we build streaming ETL with <a href="https://flink.apache.org/" target="_blank">Apache Flink</a>, enhance events with NiFi enrichment.
+			We build continuous queries against our topics with Flink SQL.
 		</td>
 	</tr>
 </table>
@@ -62,6 +66,7 @@
 <table width="100%" border="0">
 	<tr>
 		<td>
+			We will show where Java fits in as sources, enrichments, NiFi processors and sinks.
 		</td>
 	</tr>
 </table>
