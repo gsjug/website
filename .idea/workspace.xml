@@ -8,6 +8,15 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/jul2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/jul2023.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2023/jun2023.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2023/jun2023.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/michael-redlich.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/michael-redlich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -24,7 +33,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/profiles/michael-redlich.html" root0="SKIP_INSPECTION" />
@@ -287,6 +296,10 @@
       <workItem from="1681294068197" duration="2975000" />
       <workItem from="1681902772366" duration="2063000" />
       <workItem from="1682850036116" duration="479000" />
+      <workItem from="1684849664973" duration="464000" />
+      <workItem from="1685364070183" duration="137000" />
+      <workItem from="1685433351303" duration="3718000" />
+      <workItem from="1685622756748" duration="1374000" />
     </task>
     <servers />
   </component>
