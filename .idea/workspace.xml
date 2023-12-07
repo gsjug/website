@@ -8,6 +8,10 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/jan2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/jan2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -24,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/profiles/michael-redlich.html" root0="SKIP_INSPECTION" />
@@ -313,6 +317,8 @@
       <workItem from="1699700015917" duration="1388000" />
       <workItem from="1700228135050" duration="4747000" />
       <workItem from="1700484124572" duration="2069000" />
+      <workItem from="1700726565101" duration="366000" />
+      <workItem from="1701957794261" duration="4426000" />
     </task>
     <servers />
   </component>
