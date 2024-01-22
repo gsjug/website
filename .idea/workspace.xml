@@ -32,10 +32,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="1iFLC8863ELOsyhiJY6YEYJHHF9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -321,6 +321,7 @@
       <workItem from="1701957794261" duration="4751000" />
       <workItem from="1702552479368" duration="4858000" />
       <workItem from="1704309234354" duration="854000" />
+      <workItem from="1704662529898" duration="2119000" />
     </task>
     <servers />
   </component>
