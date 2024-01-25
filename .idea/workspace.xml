@@ -9,7 +9,15 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alliances/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alliances/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2022/nov2022.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2022/nov2022.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/feb2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/feb2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/mar2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/mar2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -325,7 +333,9 @@
       <workItem from="1704309234354" duration="854000" />
       <workItem from="1704662529898" duration="2119000" />
       <workItem from="1705926089910" duration="692000" />
-      <workItem from="1706024896434" duration="558000" />
+      <workItem from="1706024896434" duration="565000" />
+      <workItem from="1706106676264" duration="2583000" />
+      <workItem from="1706176125809" duration="3747000" />
     </task>
     <servers />
   </component>
