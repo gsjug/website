@@ -10,10 +10,13 @@
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/apr2024a.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/apr2024a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/apr2024b.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/apr2024b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/jul2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/jul2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/mar2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/mar2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/oct2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/oct2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/sep2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/sep2024.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -48,20 +51,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.toDoOptions",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -342,7 +345,9 @@
       <workItem from="1710002289904" duration="1809000" />
       <workItem from="1710180839508" duration="2207000" />
       <workItem from="1710231817304" duration="407000" />
-      <workItem from="1710333296951" duration="3226000" />
+      <workItem from="1710333296951" duration="3298000" />
+      <workItem from="1710776465373" duration="4000" />
+      <workItem from="1711040057293" duration="5668000" />
     </task>
     <servers />
   </component>
