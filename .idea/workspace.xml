@@ -9,14 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/apr2024b.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/apr2024b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/jul2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/jul2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/mar2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/mar2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/oct2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/oct2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2024/sep2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/sep2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -347,7 +339,8 @@
       <workItem from="1710231817304" duration="407000" />
       <workItem from="1710333296951" duration="3298000" />
       <workItem from="1710776465373" duration="4000" />
-      <workItem from="1711040057293" duration="5668000" />
+      <workItem from="1711040057293" duration="5919000" />
+      <workItem from="1711128986181" duration="614000" />
     </task>
     <servers />
   </component>
