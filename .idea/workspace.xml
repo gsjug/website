@@ -8,6 +8,20 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alliances/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alliances/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/aug2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/aug2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/dec2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/dec2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/oct2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/oct2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/sep2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/sep2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sponsors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -362,6 +376,8 @@
       <workItem from="1718313835268" duration="1047000" />
       <workItem from="1718327596447" duration="1249000" />
       <workItem from="1718820966259" duration="1256000" />
+      <workItem from="1719390749175" duration="2053000" />
+      <workItem from="1720088636502" duration="3955000" />
     </task>
     <servers />
   </component>
