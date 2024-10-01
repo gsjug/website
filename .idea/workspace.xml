@@ -8,6 +8,10 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sponsors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -387,6 +391,8 @@
       <workItem from="1726855030303" duration="6135000" />
       <workItem from="1726865807535" duration="933000" />
       <workItem from="1727179700005" duration="294000" />
+      <workItem from="1727702365473" duration="2397000" />
+      <workItem from="1727780031625" duration="2069000" />
     </task>
     <servers />
   </component>
