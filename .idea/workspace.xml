@@ -8,6 +8,13 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/apr2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/apr2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/aug2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/aug2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2024/nov2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2024/nov2024.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -396,6 +403,10 @@
       <workItem from="1728343455242" duration="1337000" />
       <workItem from="1728427228487" duration="240000" />
       <workItem from="1728466016661" duration="2800000" />
+      <workItem from="1729420927925" duration="327000" />
+      <workItem from="1730898794423" duration="2528000" />
+      <workItem from="1731179601551" duration="2738000" />
+      <workItem from="1731234519544" duration="4985000" />
     </task>
     <servers />
   </component>
