@@ -8,13 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2025/feb2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2025/feb2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2025/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2025/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -419,7 +412,7 @@
       <workItem from="1733602871589" duration="239000" />
       <workItem from="1733761485087" duration="8581000" />
       <workItem from="1733875252897" duration="767000" />
-      <workItem from="1734004518784" duration="4877000" />
+      <workItem from="1734004518784" duration="4917000" />
     </task>
     <servers />
   </component>
