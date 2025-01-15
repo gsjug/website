@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2007</title>
+			<link>../src/jsig0701.zip</link>
+			<description>Technical Overview of Spring MVC</description>
+		</item>
+		<item>
+			<title>February 2007</title>
+			<link>../src/jsig0702.zip</link>
+			<description>Developing Amazon Web Services with Java</description>
+		</item>
+		<item>
+			<title>March 2007</title>
+			<link>../src/jsig0703.zip</link>
+			<description>Developing Web Applications using Spring MVC</description>
+		</item>
+		<item>
+			<title>April 2007</title>
+			<link>../src/jsig0704.zip</link>
+			<description>Technical Overview of Java Code Quality Tools</description>
+		</item>
+		<item>
+			<title>May 2007</title>
+			<link>../src/jsig0705.zip</link>
+			<description>Using Design Patterns in Java Applications Development</description>
+		</item>
+		<item>
+			<title>June 2007</title>
+			<link>../src/jsig0706.zip</link>
+			<description>Getting Started with Adobe Flex 2</description>
+		</item>
+		<item>
+			<title>July 2007</title>
+			<link>../src/jsig0707.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2007</title>
+			<link>../src/jsig0708.zip</link>
+			<description>Special Project</description>
+		</item>
+		<item>
+			<title>September 2007</title>
+			<link>../src/jsig0709.zip</link>
+			<description>Getting Groovy with Java</description>
+		</item>
+		<item>
+			<title>October 2007</title>
+			<link>../src/jsig0710.zip</link>
+			<description>Exploring Ajax Frameworks for Eclipse:  RAP &amp; ATF</description>
+		</item>
+		<item>
+			<title>November 2007</title>
+			<link>../src/jsig0711.zip</link>
+			<description>Technical Overview of Maven 2</description>
+		</item>
+		<item>
+			<title>December 2007</title>
+			<link>../src/jsig0712.zip</link>
+			<description>Technical Overview of OSGi</description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2008</title>
+			<link>../src/jsig0801.zip</link>
+			<description>Exploring Ajax Frameworks for Eclipse:  RAP &amp; ATF (Reprise)</description>
+		</item>
+		<item>
+			<title>February 2008</title>
+			<link>../src/jsig0802.zip</link>
+			<description>Technical Overview of iScript</description>
+		</item>
+		<item>
+			<title>March 2008</title>
+			<link>../src/jsig0803.zip</link>
+			<description>Crushing the Config Chaos of Application Servers</description>
+		</item>
+		<item>
+			<title>April 2008</title>
+			<link>../src/jsig0804.zip</link>
+			<description>Hands-On Java Workshop</description>
+		</item>
+		<item>
+			<title>May 2008</title>
+			<link>../src/jsig0805.zip</link>
+			<description>Database Access with JDBC, Spring, and Groovy</description>
+		</item>
+		<item>
+			<title>June 2008</title>
+			<link>../src/jsig0806.zip</link>
+			<description>Using Java to Interact with the OS</description>
+		</item>
+		<item>
+			<title>July 2008</title>
+			<link>../src/jsig0807.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2008</title>
+			<link>../src/jsig0808.zip</link>
+			<description>Special Project</description>
+		</item>
+		<item>
+			<title>September 2008</title>
+			<link>../src/jsig0809.zip</link>
+			<description>Rapid Web Application Development with Grails</description>
+		</item>
+		<item>
+			<title>October 2008</title>
+			<link>../src/jsig0810.zip</link>
+			<description>Technical Overview of the Google Web Toolkit (GWT)</description>
+		</item>
+		<item>
+			<title>November 2008</title>
+			<link>../src/jsig0811.zip</link>
+			<description>Technical Overview of iScript 2.0</description>
+		</item>
+		<item>
+			<title>December 2008</title>
+			<link>../src/jsig0812.zip</link>
+			<description>Using the JavaMail API for Developing a Mail Merge Application</description>
+		</item>
+	</channel>
+</rss>

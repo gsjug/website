@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2006</title>
+			<link>../src/jsig0601.zip</link>
+			<description>Parsing XML Documents with XMLtp</description>
+		</item>
+		<item>
+			<title>February 2006</title>
+			<link>../src/jsig0602.zip</link>
+			<description>Enhancing Applications Development with the Spring Framework</description>
+		</item>
+		<item>
+			<title>March 2006</title>
+			<link>../src/jsig0603.zip</link>
+			<description>Using Java for Developing Ajax-Enabled Web Applications</description>
+		</item>
+		<item>
+			<title>April 2006</title>
+			<link>../src/jsig0604.zip</link>
+			<description>Mapping a POJO Domain Model to an SOA Using Intermediation and Dynamic Composition</description>
+		</item>
+		<item>
+			<title>May 2006</title>
+			<link>../src/jsig0605.zip</link>
+			<description>Fast and Easy Web Development Using Ruby on Rails</description>
+		</item>
+		<item>
+			<title>June 2006</title>
+			<link>../src/jsig0606.zip</link>
+			<description>RSS, Atom, APP, and All That: a Course for Developers</description>
+		</item>
+		<item>
+			<title>July 2006</title>
+			<link>../src/jsig0607.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2006</title>
+			<link>../src/jsig0608.zip</link>
+			<description>Special Project</description>
+		</item>
+		<item>
+			<title>September 2006</title>
+			<link>../src/jsig0609.zip</link>
+			<description>Technical Overview of Apache Geronimo</description>
+		</item>
+		<item>
+			<title>October 2006</title>
+			<link>../src/jsig0610.zip</link>
+			<description>Using Dependency Injection in Your Java Applications with the Spring Framework</description>
+		</item>
+		<item>
+			<title>November 2006</title>
+			<link>../src/jsig0611.zip</link>
+			<description>Using Aspect-Oriented Programming in Your Java Applications</description>
+		</item>
+		<item>
+			<title>December 2006</title>
+			<link>../src/jsig0612.zip</link>
+			<description>Implementing Design Patterns with AspectJ</description>
+		</item>
+	</channel>
+</rss>

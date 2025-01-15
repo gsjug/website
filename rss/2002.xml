@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2002</title>
+			<link>../src/jsig0201.zip</link>
+			<description>Sorting in Java</description>
+		</item>
+		<item>
+			<title>February 2002</title>
+			<link>../src/jsig0202.zip</link>
+			<description>Sunrise/Sunset Calculator</description>
+		</item>
+		<item>
+			<title>March 2002</title>
+			<link>../src/jsig0203.zip</link>
+			<description>Displaying Database Records with JTable - Part 1</description>
+		</item>
+		<item>
+			<title>April 2002</title>
+			<link>../src/jsig0204.zip</link>
+			<description>No Meeting</description>
+		</item>
+		<item>
+			<title>May 2002</title>
+			<link>../src/jsig0205.zip</link>
+			<description>Displaying Database Records with JTable - Part 2</description>
+		</item>
+		<item>
+			<title>June 2002</title>
+			<link>../src/jsig0206.zip</link>
+			<description>Technical Overview of SilverStream's Web Services and Related Technologies</description>
+		</item>
+		<item>
+			<title>July 2002</title>
+			<link>../src/jsig0207.zip</link>
+			<description>Generating Documents with DocumentBuilder</description>
+		</item>
+		<item>
+			<title>August 2002</title>
+			<link>../src/jsig0208.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2002</title>
+			<link>../src/jsig0209.zip</link>
+			<description>A Practical Use of the Facade Design Pattern</description>
+		</item>
+		<item>
+			<title>October 2002</title>
+			<link>../src/jsig0210.zip</link>
+			<description>A Practical Use of the Observer Design Pattern</description>
+		</item>
+		<item>
+			<title>November 2002</title>
+			<link>../src/jsig0211.zip</link>
+			<description>A Practical Use of the Factory Design Pattern</description>
+		</item>
+		<item>
+			<title>December 2002</title>
+			<link>../src/jsig0212.zip</link>
+			<description>Technical Overview of Ant: A Java-Based Build Tool</description>
+		</item>
+	</channel>
+</rss>

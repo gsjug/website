@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2020</title>
+			<link>../src/jsig2001.zip</link>
+			<description>Getting Started with Quarkus</description>
+		</item>
+		<item>
+			<title>February 2020</title>
+			<link>../src/jsig2002.zip</link>
+			<description>Game of Streams: How to Tame and Get the Most from your Messaging Platforms</description>
+		</item>
+		<item>
+			<title>March 2020</title>
+			<link>../src/jsig2003.zip</link>
+			<description>Getting Started with Micronaut Data</description>
+		</item>
+		<item>
+			<title>April 2020</title>
+			<link>../src/jsig2004.zip</link>
+			<description>Getting Started with MicroProfile</description>
+		</item>
+		<item>
+			<title>May 2020</title>
+			<link>../src/jsig2005.zip</link>
+			<description>Purely Functional Programming on the JVM with Frege</description>
+		</item>
+		<item>
+			<title>June 2020</title>
+			<link>../src/jsig2006.zip</link>
+			<description>Jakarta EE - Present and Future</description>
+		</item>
+		<item>
+			<title>July 2020</title>
+			<link>../src/jsig2007.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2020</title>
+			<link>../src/jsig2008.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2020</title>
+			<link>../src/jsig2009.zip</link>
+			<description>Building Robust Applications with the MicroProfile APIs - A Live Coding Event</description>
+		</item>
+		<item>
+			<title>October 2020</title>
+			<link>../src/jsig2010.zip</link>
+			<description>Bootiful Testing</description>
+		</item>
+		<item>
+			<title>November 2020</title>
+			<link>../src/jsig2011.zip</link>
+			<description>Java Community Participation and Collaboration in 2020</description>
+		</item>
+		<item>
+			<title>December 2020</title>
+			<link>../src/jsig2012.zip</link>
+			<description>Data Science on the JVM with Kotlin and Zeppelin</description>
+		</item>
+	</channel>
+</rss>

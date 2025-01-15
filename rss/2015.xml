@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2015</title>
+			<link>../src/jsig1501.zip</link>
+			<description>Technical Overview of Gradle</description>
+		</item>
+		<item>
+			<title>February 2015</title>
+			<link>../src/jsig1502.zip</link>
+			<description>Technical Overview of Gradle</description>
+		</item>
+		<item>
+			<title>March 2015</title>
+			<link>../src/jsig1503.zip</link>
+			<description>Technical Overview of Rust (part 1)</description>
+		</item>
+		<item>
+			<title>April 2015</title>
+			<link>../src/jsig1504.zip</link>
+			<description>Technical Overview of Rust (part 2)</description>
+		</item>
+		<item>
+			<title>May 2015</title>
+			<link>../src/jsig1505.zip</link>
+			<description>Technical Overview of Coding Ground</description>
+		</item>
+		<item>
+			<title>June 2015</title>
+			<link>../src/jsig1506.zip</link>
+			<description>Want es.next now? Traceur your way back to ES5 and feel the Harmony</description>
+		</item>
+		<item>
+			<title>July 2015</title>
+			<link>../src/jsig1507.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2015</title>
+			<link>../src/jsig1508.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2015</title>
+			<link>../src/jsig1509.zip</link>
+			<description>Technical Overview of Google Polymer</description>
+		</item>
+		<item>
+			<title>October 2015</title>
+			<link>../src/jsig1510.zip</link>
+			<description>Technical Overview of Amazon Echo</description>
+		</item>
+		<item>
+			<title>November 2015</title>
+			<link>../src/jsig1511.zip</link>
+			<description>Developing Web Apps with Meteor and AngularJS</description>
+		</item>
+		<item>
+			<title>December 2015</title>
+			<link>../src/jsig1512.zip</link>
+			<description>Processing JSON with Java</description>
+		</item>
+	</channel>
+</rss>

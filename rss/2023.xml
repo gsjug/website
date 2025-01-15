@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2023</title>
+			<link>../src/jsig2301.zip</link>
+			<description>Jakarta NoSQL Powered by Cosmos DB on the Cloud</description>
+		</item>
+		<item>
+			<title>February 2023</title>
+			<link>../src/jsig2302.zip</link>
+			<description>OpenRewrite: Where the Code Fixes Itself (plus all the dependencies)</description>
+		</item>
+		<item>
+			<title>March 2023</title>
+			<link>../src/jsig2303.zip</link>
+			<description>Designing for the Serverless Cloud</description>
+		</item>
+		<item>
+			<title>April 2023</title>
+			<link>../src/jsig2304.zip</link>
+			<description>From Zero to Hero: Mastering Batch Processing for Efficient Data Management</description>
+		</item>
+		<item>
+			<title>May 2023</title>
+			<link>../src/jsig2305.zip</link>
+			<description>Modern Data Streaming Pipelines</description>
+		</item>
+		<item>
+			<title>June 2023</title>
+			<link>../src/jsig2306.zip</link>
+			<description>Five Tips to Make Your Java Apps More Awesome</description>
+		</item>
+		<item>
+			<title>July 2023</title>
+			<link>../src/jsig2307.zip</link>
+			<description>Patterns, Predictions, and Programming</description>
+		</item>
+		<item>
+			<title>August 2023</title>
+			<link>../src/jsig2308.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2023</title>
+			<link>../src/jsig2309.zip</link>
+			<description>Welcome to the Jungle | Jakarta EE 10</description>
+		</item>
+		<item>
+			<title>October 2023</title>
+			<link>../src/jsig2310.zip</link>
+			<description>OAuth for Java Developers</description>
+		</item>
+		<item>
+			<title>November 2023</title>
+			<link>../src/jsig2311.zip</link>
+			<description>Developer Productivity Engineering: What's in it for Java Developers?</description>
+		</item>
+		<item>
+			<title>December 2023</title>
+			<link>../src/jsig2312.zip</link>
+			<description>A Java Lambda is All You Need for Distributed Background Jobs!</description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2003</title>
+			<link>../src/jsig0301.zip</link>
+			<description>Building Java Objects With Digester</description>
+		</item>
+		<item>
+			<title>February 2003</title>
+			<link>../src/jsig0302.zip</link>
+			<description>Developing Dynamic Web Applications with EJBs and WebLogic</description>
+		</item>
+		<item>
+			<title>March 2003</title>
+			<link>../src/jsig0303.zip</link>
+			<description>Developing Dynamic Web Applications with JavaBeans and JavaServer Pages</description>
+		</item>
+		<item>
+			<title>April 2003</title>
+			<link>../src/jsig0304.zip</link>
+			<description>Technical Overview of Salmon LLC's SOFIA Framework</description>
+		</item>
+		<item>
+			<title>May 2003</title>
+			<link>../src/jsig0305.zip</link>
+			<description>A Simple Chat Application</description>
+		</item>
+		<item>
+			<title>June 2003</title>
+			<link>../src/jsig0306.zip</link>
+			<description>Binding Java Objects to XML Data with JAXB</description>
+		</item>
+		<item>
+			<title>July 2003</title>
+			<link>../src/jsig0307.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2003</title>
+			<link>../src/jsig0308.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2003</title>
+			<link>../src/jsig0309.zip</link>
+			<description>Generating EJBs with XDoclet</description>
+		</item>
+		<item>
+			<title>October 2003</title>
+			<link>../src/jsig0310.zip</link>
+			<description>Technical Overview of Struts</description>
+		</item>
+		<item>
+			<title>November 2003</title>
+			<link>../src/jsig0311.zip</link>
+			<description>The Use of Java in Embedded Systems</description>
+		</item>
+		<item>
+			<title>December 2003</title>
+			<link>../src/jsig0312.zip</link>
+			<description>Technical Overview of Hibernate</description>
+		</item>
+	</channel>
+</rss>

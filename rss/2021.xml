@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2021</title>
+			<link>../src/jsig2101.zip</link>
+			<description>Jakarta NoSQL: One API to Many NoSQL Databases into Cloud Native Age</description>
+		</item>
+		<item>
+			<title>February 2021</title>
+			<link>../src/jsig2102.zip</link>
+			<description>Plug-in Architectures for Java With Layrry and the Java Module System</description>
+		</item>
+		<item>
+			<title>March 2021</title>
+			<link>../src/jsig2103.zip</link>
+			<description>Practical Event-Driven Microservices using CQRS, Event Sourcing, and Axon</description>
+		</item>
+		<item>
+			<title>April 2021</title>
+			<link>../src/jsig2104.zip</link>
+			<description>Demystifying Open-Source</description>
+		</item>
+		<item>
+			<title>April 2021</title>
+			<link>../src/jsig2104.zip</link>
+			<description>Functional Reactive with Core JDK</description>
+		</item>
+		<item>
+			<title>May 2021</title>
+			<link>../src/jsig2105.zip</link>
+			<description>Using Mutation Testing to Expose and Fix Fake Unit Tests</description>
+		</item>
+		<item>
+			<title>June 2021</title>
+			<link>../src/jsig2106.zip</link>
+			<description>10 Accessibility Problems That Affect Everyone</description>
+		</item>
+		<item>
+			<title>July 2021</title>
+			<link>../src/jsig2107.zip</link>
+			<description>Java Can Be Weird: Things You Learn While Studying for a Java Certification</description>
+		</item>
+		<item>
+			<title>August 2021</title>
+			<link>../src/jsig2108.zip</link>
+			<description>Getting Started with Jakarta NoSQL and MongoDB</description>
+		</item>
+		<item>
+			<title>September 2021</title>
+			<link>../src/jsig2109.zip</link>
+			<description>Building Layers of Defense for Your Application Using Spring Security Framework</description>
+		</item>
+		<item>
+			<title>September 2021</title>
+			<link>../src/jsig2109.zip</link>
+			<description>Are All OpenJDK Builds Created Equal?</description>
+		</item>
+		<item>
+			<title>October 2021</title>
+			<link>../src/jsig2110.zip</link>
+			<description>JWTs - What Java Developers Need to Know</description>
+		</item>
+		<item>
+			<title>November 2021</title>
+			<link>../src/jsig2111.zip</link>
+			<description>Quarkus in Action - Live Code, Real Developers and You</description>
+		</item>
+		<item>
+			<title>December 2021</title>
+			<link>../src/jsig2112.zip</link>
+			<description>Native Java with Spring Boot and JHipster</description>
+		</item>
+	</channel>
+</rss>

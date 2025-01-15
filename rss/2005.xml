@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2005</title>
+			<link>../src/jsig0501.zip</link>
+			<description>Enhancing Tasks with AntFlow</description>
+		</item>
+		<item>
+			<title>February 2005</title>
+			<link>../src/jsig0502.zip</link>
+			<description>Developing Applications with Tapestry, Hibernate, and Spring</description>
+		</item>
+		<item>
+			<title>March 2005</title>
+			<link>../src/jsig0503.zip</link>
+			<description>Technical Overview of ArgoUML</description>
+		</item>
+		<item>
+			<title>April 2005</title>
+			<link>../src/jsig0504.zip</link>
+			<description>Using Java Messaging in Real-Time Trading Systems</description>
+		</item>
+		<item>
+			<title>May 2005</title>
+			<link>../src/jsig0505.zip</link>
+			<description>Rapid GUI Development with Thinlet</description>
+		</item>
+		<item>
+			<title>June 2005</title>
+			<link>../src/jsig0506.zip</link>
+			<description>JBuilder 2005 Presentation/Demonstration</description>
+		</item>
+		<item>
+			<title>July 2005</title>
+			<link>../src/jsig0507.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2005</title>
+			<link>../src/jsig0508.zip</link>
+			<description>Special Project</description>
+		</item>
+		<item>
+			<title>September 2005</title>
+			<link>../src/jsig0509.zip</link>
+			<description>Technical Overview of JBoss Remoting</description>
+		</item>
+		<item>
+			<title>October 2005</title>
+			<link>../src/jsig0510.zip</link>
+			<description>J2SE 5.0: Using Annotations</description>
+		</item>
+		<item>
+			<title>November 2005</title>
+			<link>../src/jsig0511.zip</link>
+			<description>Decorating Your Java Objects</description>
+		</item>
+		<item>
+			<title>December 2005</title>
+			<link>../src/jsig0512.zip</link>
+			<description>Technical Overview of xProcess</description>
+		</item>
+	</channel>
+</rss>

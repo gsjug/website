@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2012</title>
+			<link>../src/jsig1201.zip</link>
+			<description>Technical Overview of the Play! Framework</description>
+		</item>
+		<item>
+			<title>February 2012</title>
+			<link>../src/jsig1202.zip</link>
+			<description>Technical Overview of iText</description>
+		</item>
+		<item>
+			<title>March 2012</title>
+			<link>../src/jsig1203.zip</link>
+			<description>Technical Overview of iText (continued)</description>
+		</item>
+		<item>
+			<title>April 2012</title>
+			<link>../src/jsig1204.zip</link>
+			<description>Technical Overview of Closures for the Java Programming Language</description>
+		</item>
+		<item>
+			<title>May 2012</title>
+			<link>../src/jsig1205.zip</link>
+			<description>Technical Overview of the Twitter API: An Update</description>
+		</item>
+		<item>
+			<title>June 2012</title>
+			<link>../src/jsig1206.zip</link>
+			<description>Technical Overview of Spring Data for MongoDB</description>
+		</item>
+		<item>
+			<title>July 2012</title>
+			<link>../src/jsig1207.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2012</title>
+			<link>../src/jsig1208.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2012</title>
+			<link>../src/jsig1209.zip</link>
+			<description>Technical Overview of Dart</description>
+		</item>
+		<item>
+			<title>October 2012</title>
+			<link>../src/jsig1210.zip</link>
+			<description>The 'Politics' of Java</description>
+		</item>
+		<item>
+			<title>November 2012</title>
+			<link>../src/jsig1211.zip</link>
+			<description>Technical Overview of JavaFX 2 - Part 1</description>
+		</item>
+		<item>
+			<title>December 2012</title>
+			<link>../src/jsig1212.zip</link>
+			<description>Technical Overview of JavaFX 2 - Part 2</description>
+		</item>
+	</channel>
+</rss>

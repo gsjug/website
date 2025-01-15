@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2017</title>
+			<link>../src/jsig1701.zip</link>
+			<description>Technical Overview of Speedment</description>
+		</item>
+		<item>
+			<title>February 2017</title>
+			<link>../src/jsig1702.zip</link>
+			<description>Getting Started with JavaFX</description>
+		</item>
+		<item>
+			<title>March 2017</title>
+			<link>../src/jsig1703.zip</link>
+			<description>Technical Overview of jOOQ</description>
+		</item>
+		<item>
+			<title>April 2017</title>
+			<link>../src/jsig1704.zip</link>
+			<description>Exceptions: I’m Telling You for the Last Time</description>
+		</item>
+		<item>
+			<title>May 2017</title>
+			<link>../src/jsig1705.zip</link>
+			<description>Reactive Programming by Example</description>
+		</item>
+		<item>
+			<title>May 2017</title>
+			<link>../src/jsig1705.zip</link>
+			<description>The Splendors and Miseries of the Distributed Streams</description>
+		</item>
+		<item>
+			<title>June 2017</title>
+			<link>../src/jsig1706.zip</link>
+			<description>Android and the Internet of Things</description>
+		</item>
+		<item>
+			<title>July 2017</title>
+			<link>../src/jsig1707.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2017</title>
+			<link>../src/jsig1708.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2017</title>
+			<link>../src/jsig1709.zip</link>
+			<description>Swift Programming for Java Developers</description>
+		</item>
+		<item>
+			<title>October 2017</title>
+			<link>../src/jsig1710.zip</link>
+			<description>Java EE 8 and Java EE 9: What You Need to Know!</description>
+		</item>
+		<item>
+			<title>November 2017</title>
+			<link>../src/jsig1711.zip</link>
+			<description>Java Programming Standard &amp; Conventions: When Style Triumphs Over Substance</description>
+		</item>
+		<item>
+			<title>December 2017</title>
+			<link>../src/jsig1712.zip</link>
+			<description>API Deep Dive: Designing Eclipse Collections</description>
+		</item>
+	</channel>
+</rss>

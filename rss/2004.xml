@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2004</title>
+			<link>../src/jsig0401.zip</link>
+			<description>Technical Overview of Cayenne</description>
+		</item>
+		<item>
+			<title>February 2004</title>
+			<link>../src/jsig0402.zip</link>
+			<description>Top 15 Best Ant Practices/Introduction to Tapestry</description>
+		</item>
+		<item>
+			<title>March 2004</title>
+			<link>../src/jsig0403.zip</link>
+			<description>Technical Overview of J#.NET</description>
+		</item>
+		<item>
+			<title>April 2004</title>
+			<link>../src/jsig0404.zip</link>
+			<description>A First Look at J2SE 1.5</description>
+		</item>
+		<item>
+			<title>May 2004</title>
+			<link>../src/jsig0405.zip</link>
+			<description>Accelerating Web Application Development with JBoost</description>
+		</item>
+		<item>
+			<title>June 2004</title>
+			<link>../src/jsig0406.zip</link>
+			<description>Using Web Services with the J2EE 1.4 Platform - Part 1</description>
+		</item>
+		<item>
+			<title>July 2004</title>
+			<link>../src/jsig0407.zip</link>
+			<description>Using Web Services with the J2EE 1.4 Platform - Part 2</description>
+		</item>
+		<item>
+			<title>August 2004</title>
+			<link>../src/jsig0408.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>September 2004</title>
+			<link>../src/jsig0409.zip</link>
+			<description>Technical Overview of JAMES</description>
+		</item>
+		<item>
+			<title>October 2004</title>
+			<link>../src/jsig0410.zip</link>
+			<description>Dynamic Sorting with Java</description>
+		</item>
+		<item>
+			<title>November 2004</title>
+			<link>../src/jsig0411.zip</link>
+			<description>Technical Overview of PMD</description>
+		</item>
+		<item>
+			<title>December 2004</title>
+			<link>../src/jsig0412.zip</link>
+			<description>Technical Overview of Spring</description>
+		</item>
+	</channel>
+</rss>

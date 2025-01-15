@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2001</title>
+			<link>../src/jsig0101.zip</link>
+			<description>No Meeting (Java Users Group Being Formed)</description>
+		</item>
+		<item>
+			<title>February 2001</title>
+			<link>../src/jsig0102.zip</link>
+			<description>NervousText Applet</description>
+		</item>
+		<item>
+			<title>March 2001</title>
+			<link>../src/jsig0103.zip</link>
+			<description>Introduction to Object-Oriented Programming</description>
+		</item>
+		<item>
+			<title>April 2001</title>
+			<link>../src/jsig0104.zip</link>
+			<description>No Meeting (Shared Meeting Night with PC Symposium)</description>
+		</item>
+		<item>
+			<title>May 2001</title>
+			<link>../src/jsig0105.zip</link>
+			<description>No Meeting (Shared Meeting Night with PC Symposium)</description>
+		</item>
+		<item>
+			<title>June 2001</title>
+			<link>../src/jsig0106.zip</link>
+			<description>Dynamic Web Page Generation Using Java and Databases</description>
+		</item>
+		<item>
+			<title>July 2001</title>
+			<link>../src/jsig0107.zip</link>
+			<description>A Comparison of Java and C++</description>
+		</item>
+		<item>
+			<title>August 2001</title>
+			<link>../src/jsig0108.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2001</title>
+			<link>../src/jsig0109.zip</link>
+			<description>No Meeting (World Trade Center Attacks)</description>
+		</item>
+		<item>
+			<title>October 2001</title>
+			<link>../src/jsig0110.zip</link>
+			<description>Clock Applet</description>
+		</item>
+		<item>
+			<title>November 2001</title>
+			<link>../src/jsig0111.zip</link>
+			<description>Technical Overview of JUnit: A Simple Framework to Write Repeatable Tests</description>
+		</item>
+		<item>
+			<title>December 2001</title>
+			<link>../src/jsig0112.zip</link>
+			<description>Developing Dynamic Content Web Applications</description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2011</title>
+			<link>../src/jsig1101.zip</link>
+			<description>Spring Roo - Developer Productivity Tool for Spring Developers</description>
+		</item>
+		<item>
+			<title>February 2011</title>
+			<link>../src/jsig1102.zip</link>
+			<description>Android 101</description>
+		</item>
+		<item>
+			<title>March 2011</title>
+			<link>../src/jsig1103.zip</link>
+			<description>Open Forum</description>
+		</item>
+		<item>
+			<title>April 2011</title>
+			<link>../src/jsig1104.zip</link>
+			<description>An Introduction to Interactive Programming for the Internet of Things</description>
+		</item>
+		<item>
+			<title>May 2011</title>
+			<link>../src/jsig1105.zip</link>
+			<description>A Spring Potpourri</description>
+		</item>
+		<item>
+			<title>June 2011</title>
+			<link>../src/jsig1106.zip</link>
+			<description>Latest Work with iScript and iBuild</description>
+		</item>
+		<item>
+			<title>July 2011</title>
+			<link>../src/jsig1107.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2011</title>
+			<link>../src/jsig1108.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2011</title>
+			<link>../src/jsig1109.zip</link>
+			<description>Open Forum</description>
+		</item>
+		<item>
+			<title>October 2011</title>
+			<link>../src/jsig1110.zip</link>
+			<description>Technical Overview of Gradle</description>
+		</item>
+		<item>
+			<title>November 2011</title>
+			<link>../src/jsig1111.zip</link>
+			<description>Exploring Java 7</description>
+		</item>
+		<item>
+			<title>December 2011</title>
+			<link>../src/jsig1112.zip</link>
+			<description>Exploring Java 7 (reprise)</description>
+		</item>
+	</channel>
+</rss>

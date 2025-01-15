@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2010</title>
+			<link>../src/jsig1001.zip</link>
+			<description>Technical Overview of Java FX</description>
+		</item>
+		<item>
+			<title>February 2010</title>
+			<link>../src/jsig1002.zip</link>
+			<description>No Meeting</description>
+		</item>
+		<item>
+			<title>March 2010</title>
+			<link>../src/jsig1003.zip</link>
+			<description>Introduction to the Facebook API</description>
+		</item>
+		<item>
+			<title>April 2010</title>
+			<link>../src/jsig1004.zip</link>
+			<description>Java Concurrent Animated</description>
+		</item>
+		<item>
+			<title>May 2010</title>
+			<link>../src/jsig1005.zip</link>
+			<description>Developing Applications for the BlackBerry using Java and Eclipse</description>
+		</item>
+		<item>
+			<title>June 2010</title>
+			<link>../src/jsig1006.zip</link>
+			<description>Tinkering with Android - Sharing Some Experiences with Android Development</description>
+		</item>
+		<item>
+			<title>July 2010</title>
+			<link>../src/jsig1007.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2010</title>
+			<link>../src/jsig1008.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2010</title>
+			<link>../src/jsig1009.zip</link>
+			<description>Technical Overview of Rackspace Cloud Hosting</description>
+		</item>
+		<item>
+			<title>October 2010</title>
+			<link>../src/jsig1010.zip</link>
+			<description>Getting Started with Clojure</description>
+		</item>
+		<item>
+			<title>November 2010</title>
+			<link>../src/jsig1011.zip</link>
+			<description>Application Development with Clojure</description>
+		</item>
+		<item>
+			<title>December 2010</title>
+			<link>../src/jsig1012.zip</link>
+			<description>Rapid Web Application Development with Grails</description>
+		</item>
+	</channel>
+</rss>

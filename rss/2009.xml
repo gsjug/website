@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2009</title>
+			<link>../src/jsig0901.zip</link>
+			<description>Open Forum</description>
+		</item>
+		<item>
+			<title>February 2009</title>
+			<link>../src/jsig0902.zip</link>
+			<description>The Two Crows: Haskell and Jaskell</description>
+		</item>
+		<item>
+			<title>March 2009</title>
+			<link>../src/jsig0903.zip</link>
+			<description>Getting Started with the Stripes Framework</description>
+		</item>
+		<item>
+			<title>April 2009</title>
+			<link>../src/jsig0904.zip</link>
+			<description>Technical Overview of Hudson</description>
+		</item>
+		<item>
+			<title>May 2009</title>
+			<link>../src/jsig0905.zip</link>
+			<description>Eliminating Cross Cutting Concerns with Aspect-Oriented Programming</description>
+		</item>
+		<item>
+			<title>June 2009</title>
+			<link>../src/jsig0906.zip</link>
+			<description>No Meeting</description>
+		</item>
+		<item>
+			<title>July 2009</title>
+			<link>../src/jsig0907.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2009</title>
+			<link>../src/jsig0908.zip</link>
+			<description>Special Project</description>
+		</item>
+		<item>
+			<title>September 2009</title>
+			<link>../src/jsig0909.zip</link>
+			<description>Technical Overview of the Java Message System (JMS)</description>
+		</item>
+		<item>
+			<title>October 2009</title>
+			<link>../src/jsig0910.zip</link>
+			<description>Open Forum</description>
+		</item>
+		<item>
+			<title>November 2009</title>
+			<link>../src/jsig0911.zip</link>
+			<description>Technical Overview of the Twitter API</description>
+		</item>
+		<item>
+			<title>December 2009</title>
+			<link>../src/jsig0912.zip</link>
+			<description>The New King of JEE - Cold Fusion - Who Knew?</description>
+		</item>
+	</channel>
+</rss>

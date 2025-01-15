@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2022</title>
+			<link>../src/jsig2201.zip</link>
+			<description>Forward with Java 18 and Beyond!</description>
+		</item>
+		<item>
+			<title>February 2022</title>
+			<link>../src/jsig2202.zip</link>
+			<description>MicroProfile 4.1, 5.0 and Beyond</description>
+		</item>
+		<item>
+			<title>March 2022</title>
+			<link>../src/jsig2203.zip</link>
+			<description>Event Messaging for the Best of Both Worlds</description>
+		</item>
+		<item>
+			<title>April 2022</title>
+			<link>../src/jsig2204.zip</link>
+			<description>Refactoring from Imperative to Functional Style</description>
+		</item>
+		<item>
+			<title>May 2022</title>
+			<link>../src/jsig2205.zip</link>
+			<description>Be A Better Java Developer, Learn Faster and Get More Results: It's All About the Skills!</description>
+		</item>
+		<item>
+			<title>June 2022</title>
+			<link>../src/jsig2206.zip</link>
+			<description>Coding That Sparks Joy With Quarkus</description>
+		</item>
+		<item>
+			<title>July 2022</title>
+			<link>../src/jsig2207.zip</link>
+			<description>Your Java Code in the Fastlane: Creating a Million Virtual Threads Using Project Loom</description>
+		</item>
+		<item>
+			<title>August 2022</title>
+			<link>../src/jsig2208.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2022</title>
+			<link>../src/jsig2209.zip</link>
+			<description>Getting Started with JReleaser: A Hands-On Workshop</description>
+		</item>
+		<item>
+			<title>October 2022</title>
+			<link>../src/jsig2210.zip</link>
+			<description>Java Next! From Amber to Loom, from Panama to Valhalla</description>
+		</item>
+		<item>
+			<title>November 2022</title>
+			<link>../src/jsig2211.zip</link>
+			<description>Lightning Talks | Event-Driven Microservices - Beyond the Fairy Tale</description>
+		</item>
+		<item>
+			<title>December 2022</title>
+			<link>../src/jsig2212.zip</link>
+			<description>Generate Some Code for Great Good</description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Source Code Archive</title>
+		<link>http://www.javasig.org/</link>
+		<description>Source Code Archive for Garden State Java Users Group</description>
+		<language>en-us</language>
+		<webMaster>mike@redlich.net (Michael P. Redlich)</webMaster>
+		<pubDate>Tue Nov 26 14:49:47 EST 2024</pubDate>
+		<item>
+			<title>January 2016</title>
+			<link>../src/jsig1601.zip</link>
+			<description>Firebase 101</description>
+		</item>
+		<item>
+			<title>February 2016</title>
+			<link>../src/jsig1602.zip</link>
+			<description>Why Rust? Why Not!</description>
+		</item>
+		<item>
+			<title>March 2016</title>
+			<link>../src/jsig1603.zip</link>
+			<description>Technical Overview of JSoup</description>
+		</item>
+		<item>
+			<title>April 2016</title>
+			<link>../src/jsig1604.zip</link>
+			<description>Technical Overview of Functional Programming</description>
+		</item>
+		<item>
+			<title>May 2016</title>
+			<link>../src/jsig1605.zip</link>
+			<description>Technical Overview of Ruby</description>
+		</item>
+		<item>
+			<title>June 2016</title>
+			<link>../src/jsig1606.zip</link>
+			<description>Technical Overview of Spring Web Services</description>
+		</item>
+		<item>
+			<title>July 2016</title>
+			<link>../src/jsig1607.zip</link>
+			<description>Yearly Review &amp; Planning Meeting</description>
+		</item>
+		<item>
+			<title>August 2016</title>
+			<link>../src/jsig1608.zip</link>
+			<description>No Meeting (Summer Break)</description>
+		</item>
+		<item>
+			<title>September 2016</title>
+			<link>../src/jsig1609.zip</link>
+			<description>Plex Cloud ERP, SQL, Report Writing</description>
+		</item>
+		<item>
+			<title>October 2016</title>
+			<link>../src/jsig1610.zip</link>
+			<description>Vaadin - A Java Tool for Web Development</description>
+		</item>
+		<item>
+			<title>November 2016</title>
+			<link>../src/jsig1611.zip</link>
+			<description>Building Database Apps with Spring Data JPA and Vaadin Spring</description>
+		</item>
+		<item>
+			<title>December 2016</title>
+			<link>../src/jsig1612.zip</link>
+			<description>GoLang 101 - Thinking in Go</description>
+		</item>
+	</channel>
+</rss>
