@@ -122,14 +122,14 @@
             <div class="col-lg-6 col-md-6 mx-auto">
                 <div class="site-heading">
                     <h2 class="post-title">Next Meeting <a href="#navigation" class="page-scroll"></a></h2>
-                    <h3><i class="far fa-calendar"></i> Tuesday, March 11, 2025</h3>
+                    <h3><i class="far fa-calendar"></i> Tuesday, April 15, 2025</h3>
                     <h3><i class="far fa-clock"></i> <strong>6:30-8:30pm</strong> EDT</h3>
                     <p/>
-                    <h4>Going Beyond ORMs</h4>
-                    <h4>presented by <a href="./profiles/andres-almiray.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Andres Almiray"><u>Andres Almiray</u></a></h4>
+                    <h4>Debug Production with OpenTelemetry: A Primer for the Full-Stack Java/Spring Engineer</h4>
+                    <h4>presented by <a href="./profiles/ken-rimple.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Ken Rimple"><u>Ken Rimple</u></a></h4>
                     <h4><a href="./meetings/directions-to-dorothy-young-center.html" target="_blank" class="text-warning"><u>Dorothy Young Center for the Arts at Drew University</u></a></h4>
                     <h5 class="text-warning">(with an option to attend on-line)</h5>
-                    <h5><i class="fa fa-hand-o-right"></i> Click <a href="https://www.eventbrite.com/e/going-beyond-orms-tickets-1261908334799?aff=oddtdtcreator" target="_blank" class="text-white"><u>HERE</u></a> to register via EventBrite</h5>
+                    <!-- <h5><i class="fa fa-hand-o-right"></i> Click <a href="https://www.eventbrite.com/e/going-beyond-orms-tickets-1261908334799?aff=oddtdtcreator" target="_blank" class="text-white"><u>HERE</u></a> to register via EventBrite</h5> -->
                     <a href="#next-meeting" target="_blank" class="btn btn-outline-secondary rounded text-white">Learn More About Our Next Meeting</a>
                     <p/>
                     <h5>Missed a meeting or want to learn more on what's happening in the Java community? Check out our <a href="./resources" target="_blank" class="text-white"><u>Resources</u></a> page for all that and more!</h5>
@@ -149,32 +149,41 @@
             <div class="post-preview">
                 <h2 class="post-title">Next Meeting <a href="#navigation" class="page-scroll"><i class="fas fa-arrow-alt-circle-up"></i></a></h2>
                 <p/>
-                <h3>Going Beyond ORMs</h3>
+                <h3>Debug Production with OpenTelemetry: A Primer for the Full-Stack Java/Spring Engineer</h3>
                 <h4 style="text-align: center">Abstract</h4>
                 <p class="post-subtitle">
-                    For some time now JSON has been the preferred format for exchanging data between client (browsers) and servers.
-                    Often times developers had to configure data marshalling options to transform data into business objects, into persistent data, and back again.
-                    Perhaps it would make more sense to use JSON across the business pipeline without sacrificing performance nor missing benefits from the relational data world.
-                    This is what JSON Duality Views propose.
+                    Do you have a good idea what your distributed application is doing in production?
+                    Are you tired of looking at different dashboards for your front-ends and each of your services, or digging through a ton of logs just to find that one small nugget of useful debug data, or viewing metrics, but not being able to tie them to actual events?
                 </p>
                 <p class="post-subtitle">
-                    In this session we'll explore options to enhance data driven applications written with Spring Boot, Quarkus, and Micronaut, enhancing your developer experience and increasing customer satisfaction.
-                </p>
-                <h4 style="text-align: center">Andres Almiray</h4>
-                <p class="post-subtitle">
-                    <a href="https://www.linkedin.com/in/aalmiray/" target="_blank">Andres Almiray</a> is a Java/Groovy developer and a Java Champion with more than 20 years of experience in software design and development.
-                    He has been involved in web and desktop application development since the early days of Java.
+                    In this talk Ken Rimple, Senior Developer Relations Advocate for <a href="https://www.honeycomb.io/" target="_blank">Honeycomb</a>, will explain how you can use <a href="https://opentelemetry.io/" target="_blank">OpenTelemetry</a> to observe your applications, a process known as "instrumentation."
+                    Combined with continuous, small deployments, feature flags, and testing in production, OpenTelemetry is a powerful way to find out what your applications are doing, right now, without trying to reproduce production problems in a test system.
                 </p>
                 <p class="post-subtitle">
-                    Andres is a true believer in open source and has participated in popular projects like Groovy, Griffon, and DbUnit, as well as starting his own projects.
-                    He's a founding member of the <a href="http://griffon-framework.org/" target="_blank">Griffon</a> framework, <a href="https://www.hackergarten.net/" target="_blank">Hackergarten</a> community event, and creator of <a href="https://jreleaser.org/" target="_blank">JReleaser</a>.
+                    Ken will demonstrate a <a href="https://spring.io/projects/spring-boot" target="_blank">Spring Boot</a> project instrumented with OpenTelemetry for Java.
+                    He'll show how to get distributed trace data across multiple services, and then view the traces in Honeycomb.
+                    Logging and metrics will also be discussed.
+                </p>
+                <p class="post-subtitle">
+                    Ken will also discuss front-end observability, a new field that allows users to move away from Real User Metrics (RUM) tools such as <a href="https://sentry.io/welcome/" target="_blank">Sentry</a> and <a href="https://www.datadoghq.com/" target="_blank">DataDog</a>, and get traces, core web vitals, and browser session information from front-end applications all the way to the back-end, making it possible to have all teams view the same telemetry and avoid the "it's a [front-end|back-end] problem" effect.
+                </p>
+                <p class="post-subtitle">
+                    Finally, Ken will discuss mobile telemetry using Honeycomb's open source APIs to monitor native iOS and Android applications.
+                </p>
+                <h4 style="text-align: center">Ken Rimple</h4>
+                <p class="post-subtitle">
+                    <a href="https://www.linkedin.com/in/kenrimple/" target="_blank">Ken Rimple</a> is a software engineer with three decades of experience who serves as a Senior Developer Relations Advocate at Honeycomb.
+                    He currently guides customers in instrumenting full stack applications and frontends such as Angular and React with OpenTelemetry, and has worked on a wide range of languages and platforms including Java and Spring.
+                </p>
+                <p class="post-subtitle">
+                    Ken loves mentoring and teaching, and has written courses and taught developers in Java, Spring, Maven, Angular, React, and other technologies.
                 </p>
             </div>
-            <h4 style="text-align: center">Click <a href="https://www.eventbrite.com/e/going-beyond-orms-tickets-1261908334799?aff=oddtdtcreator" target="_blank"><u>HERE</u></a> to register via EventBrite</h4>
+            <!-- <h4 style="text-align: center">Click <a href="https://www.eventbrite.com/e/going-beyond-orms-tickets-1261908334799?aff=oddtdtcreator" target="_blank"><u>HERE</u></a> to register via EventBrite</h4> -->
         </div>
         <div class="col-lg-6 col-md-6 mx-auto">
             <p class="bs-docs-sidebar circular-image" style="text-align: center">
-                <img src="./images/andres-almiray.png" alt="Andres Almiray"/>
+                <img src="./images/ken-rimple.jpeg" alt="Ken Rimple"/>
             </p>
             <p class="bs-docs-sidebar">
                 <a class="twitter-timeline"  href="https://twitter.com/GardenStateJUG" data-widget-id="722096510398148608">Tweets by @gsjug</a>
