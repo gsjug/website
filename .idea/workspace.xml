@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="https://www.youtube.com/watch?v=h6NOqYabjho">
+    <list default="true" id="9b2878f8-a797-44cd-b99c-a8658105f680" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -460,7 +458,7 @@
       <workItem from="1748602863122" duration="1380000" />
       <workItem from="1749116167052" duration="1848000" />
       <workItem from="1749150006135" duration="688000" />
-      <workItem from="1749417818162" duration="323000" />
+      <workItem from="1749417818162" duration="1564000" />
     </task>
     <servers />
   </component>
