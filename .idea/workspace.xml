@@ -9,6 +9,37 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/cdjdn/aop.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/cdjdn/design-patterns.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/cdjdn/osgi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/cdjdn/stripes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/ete/osgi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/ete/social-networks.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/ete/stripes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/nysia/anti-patterns.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/nysia/design-patterns.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/pjug/design-patterns.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/aop-2007.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/aop-2009.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/clojure.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/decorator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/factory-method.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/groovy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/meteor.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/observer.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/social-networks-2010.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/presentations/tcf/social-networks-2011.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/adapter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/decorator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/factory.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/iterator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/james.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/observer.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/singleton.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/state.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/publications/java-boutique/template.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -467,6 +498,9 @@
       <workItem from="1750757658317" duration="2442000" />
       <workItem from="1750940938786" duration="1628000" />
       <workItem from="1750972884414" duration="4000" />
+      <workItem from="1751036971801" duration="618000" />
+      <workItem from="1751285252781" duration="748000" />
+      <workItem from="1751549366039" duration="2693000" />
     </task>
     <servers />
   </component>
