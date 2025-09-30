@@ -128,8 +128,8 @@
                     <h4>Lightning Talks</h4>
                     <h4>presented by Drew University Students: Logan Kleva, Chris Gibbs and Thomas Jenkins</h4>
                     <h4>-- and --</h4>
-                    <h4>Getting Started with Jakarta EE 11 and What’s New in Jakarta EE 12</h4>
-                    <h4>presented by <a href="./profiles/michael-redlich.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Michael Redlich"><u>Michael Redlich</u></a></h4>
+                    <h4>Tracing Event-Based Systems with OpenTelemetry</h4>
+                    <h4>presented by <a href="./profiles/harry-kimpel.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Harry Kimpel"><u>Harry Kimpel</u></a></h4>
                     <h4><a href="./meetings/directions-to-dorothy-young-center.html" target="_blank" class="text-warning"><u>Dorothy Young Center for the Arts at Drew University</u></a></h4>
                     <h5 class="text-warning">(with an option to attend on-line)</h5>
                     <!-- TODO: add EventBrite link when ready -->
@@ -177,47 +177,35 @@
                 </p>
                 <p class="post-subtitle">
                 </p> -->
-                <h3>Getting Started with Jakarta EE 11 and What’s New in Jakarta EE 12</h3>
+                <h3>Tracing Event-Based Systems with OpenTelemetry</h3>
                 <h4 style="text-align: center">Abstract</h4>
                 <p class="post-subtitle">
-                    <a href="https://jakarta.ee/release/11/" target="_blank">Jakarta EE 11</a>, released in June 2025, focused on productivity and innovation, delivered: updates to 16 specifications; a new specification, <a href="https://jakarta.ee/specifications/data/" target="_blank">Jakarta Data</a>; and sets the baseline to Java 21, the latest LTS release.
+                    Ideally, you should be using distributed tracing to trace requests through your event-based system such as Kafka.
+                    It decouples producers and consumers, which means there are no direct transactions to trace between them.
+                    These systems also use asynchronous processes, which have implicit, not explicit, dependencies.
+                    That makes it challenging to understand how your microservices are working together.
+               </p>
+                <p class="post-subtitle">
+                    However, it is possible to monitor your event-based systems with distributed tracing and OpenTelemetry.
+                    You can then analyze and visualize your traces in an open source distributed tracing tool like Jaeger or a full observability platform like New Relic.
+                    In this talk I will leverage a simple application to show how you can achieve this.
+                </p>
+                <h4 style="text-align: center">Harry Kimpel</h4>
+                <p class="post-subtitle">
+                    <a href="https://www.linkedin.com/in/harrykimpel/" target="_blank">Harry Kimpel</a> is a passionate software craftsman with 28+ years experience in a broad spectrum of software development technologies and platforms.
+                    His main focus is on cloud-native software architectures and all major cloud environments.
+                    He has a passion for model-driven development, application modernization and <a href="https://dapr.io/" target="_blank">Distributed Application Runtime</a> (Dapr).
+                    Observing and securing these environments are key aspects.
                 </p>
                 <p class="post-subtitle">
-                    With a planned release of July 2026, work has already started with Jakarta EE 12.
-                    As of early May 2025, there are 24 specifications in which their respective reviews have passed.
-                    There are three new specifications for consideration in Jakarta EE 12: <a href="https://jakarta.ee/specifications/query/" target="_blank">Jakarta Query</a>, <a href="https://jakarta.ee/specifications/portlet/" target="_blank">Jakarta Portlet</a> and <a href="https://jakarta.ee/specifications/portlet-bridge/" target="_blank">Jakarta Portlet Bridge</a>.
-                </p>
-                <p class="post-subtitle">
-                    This presentation will help you get started using Jakarta EE 11 with working examples along with a sneak peek at what you can expect in Jakarta EE 12.
-                </p>
-                <h4 style="text-align: center">Michael Redlich</h4>
-                <p class="post-subtitle">
-                    <a href="https://www.linkedin.com/in/michael-redlich-13a966" target="_blank">Michael Redlich</a> has been an active member within the Java community for the past 25 years.
-                    He founded the Garden State Java User Group (formerly the ACGNJ Java Users Group) in 2001 where he serves as one of the directors.
-                    Since 2016, Mike has served as a Java community news editor for <a href="https://www.infoq.com/" target="_blank">InfoQ</a> where his contributions include the weekly Java news roundup, news items, technical articles and technical reviews from external authors.
-                    He is currently the lead Java Queue editor.
-                    Mike joined <a href="https://www.payara.fish/" target="_blank">Payara</a> as a contract Developer Advocate and Technical Writer in the summer of 2023.
-                </p>
-                <p class="post-subtitle">
-                    He is the author of "<a href="https://www.amazon.com/Helidon-Revealed-Practical-Microservices-Framework/dp/B0CVDT7H1J" target="_blank">Helidon Revealed: A Practical Guide to Oracle’s Microservices Framework</a>," released in late-December 2024.
-                </p>
-                <p class="post-subtitle">
-                    Mike has presented at venues such as <a href="https://devnexus.com/" target="_blank">Devnexus</a>, <a href="https://www.oracle.com/javaone/" target="_blank">JavaOne</a>, Oracle Code One, <a href="https://2026.europe.jcon.one/" target="_blank">JCON World</a>, <a href="https://emergingtecheast.com/" target="_blank">Emerging Technologies for the Enterprise</a>, <a href="https://tcf-nj.org/" target="_blank">Trenton Computer Festival</a> (TCF), <a href="https://princetonacm.acm.org/tcfpro/" target="_blank">TCF IT Professional Conference</a>, and numerous Java User Groups.
-                    Mike serves as a committer on the <a href="https://jakarta.ee/specifications/nosql/" target="_blank">Jakarta NoSQL</a> and <a href="https://jakarta.ee/specifications/data/" target="_blank">Jakarta Data</a> specifications and the <a href="https://www.jnosql.org/" target="_blank">Eclipse JNoSQL</a> project.
-                    He also participates on the leadership council of the <a href="https://jakartaee-ambassadors.io/" target="_blank">Jakarta EE Ambassadors</a>.
-                    Mike was named a Java Champion in April 2023.
-                </p>
-                <p class="post-subtitle">
-                    He retired from ExxonMobil Technology & Engineering in June 2023 with 33½ years of service.
-                    His experience included developing custom scientific laboratory and web applications, polymer physics, chemometrics, infrared spectroscopy and automotive testing.
-                    He also has experience as a Technical Support Engineer at Ai-Logix, Inc. (now AudioCodes) where he provided technical support and developed telephony applications for customers.
+                    As a Developer Relations Engineer at <a href="https://newrelic.com/" target="_blank">New Relic</a>, Harry helps software engineers, DevOps, SREs and operations experts to understand and implement proactive and scalable observability practices by leveraging open source technologies and the New Relic platform.
                 </p>
             </div>
             <!-- <h4 style="text-align: center">Click <a href="https://www.eventbrite.com/e/apache-spark-and-databricks-enhancing-java-apps-with-langchain4j-tickets-1619036605069?aff=oddtdtcreator" target="_blank"><u>HERE</u></a> to register via EventBrite</h4> -->
         </div>
         <div class="col-lg-6 col-md-6 mx-auto">
             <p class="bs-docs-sidebar circular-image" style="text-align: center">
-                <img src="./images/michael-redlich.jpg" alt="Michael Redlich"/>
+                <img src="./images/harry-kimpel.png" alt="Harry Kimple"/>
             </p>
             <p class="bs-docs-sidebar">
                 <a class="twitter-timeline" href="https://twitter.com/GardenStateJUG" data-widget-id="722096510398148608">Tweets by @gsjug</a>

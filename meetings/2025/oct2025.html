@@ -27,7 +27,7 @@
 		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Lightning Talks</td>
 	</tr>
 	<tr style="background-color: #000066">
-		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Getting Started with Jakarta EE 11 and What's New in Jakarta EE 12</td>
+		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Tracing Event-Based Systems with OpenTelemetry</td>
 	</tr>
 </table>
 
@@ -36,7 +36,7 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			We are happy to announce that Drew University students: <u>Logan Kleva</u>; <u>Chris Gibbs</u>; and <u>Thomas Jenkins</u>; will present 15-minute lightning talks, and GSJUG Co-Director, <a href="https://www.linkedin.com/in/michael-redlich-13a966/" target="_blank">Michael Redlich</a>, will be present the main topic at this month&apos;s meeting!
+			We are happy to announce that Drew University students: <u>Logan Kleva</u>; <u>Chris Gibbs</u>; and <u>Thomas Jenkins</u>; will present 15-minute lightning talks, and <a href="https://www.linkedin.com/in/harrykimpel/" target="_blank">Harry Kimpel</a>, will be present the main topic at this month&apos;s meeting!
 		</td>
 	</tr>
 </table>
@@ -76,7 +76,7 @@
 <table>
 	<tr>
 		<td>
-			<u>Michael Redlich</u> will present &ldquo;<strong>Getting Started with Jakarta EE 11 and What's New in Jakarta EE 12</strong>&rdquo;
+			<u>Harry Kimpel</u> will present &ldquo;<strong>Tracing Event-Based Systems with OpenTelemetry</strong>&rdquo;
 		</td>
 	</tr>
 </table>
@@ -86,7 +86,10 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			<a href="https://jakarta.ee/release/11/" target="_blank">Jakarta EE 11</a>, released in June 2025, focused on productivity and innovation, delivered: updates to 16 specifications; a new specification, <a href="https://jakarta.ee/specifications/data/" target="_blank">Jakarta Data</a>; and sets the baseline to Java 21, the latest LTS release.
+			Ideally, you should be using distributed tracing to trace requests through your event-based system such as Kafka.
+			It decouples producers and consumers, which means there are no direct transactions to trace between them.
+			These systems also use asynchronous processes, which have implicit, not explicit, dependencies.
+			That makes it challenging to understand how your microservices are working together.
 		</td>
 	</tr>
 </table>
@@ -96,19 +99,9 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			With a planned release of July 2026, work has already started with Jakarta EE 12.
-			As of early May 2025, there are 24 specifications in which their respective reviews have passed.
-			There are three new specifications for consideration in Jakarta EE 12: <a href="https://jakarta.ee/specifications/query/" target="_blank">Jakarta Query</a>, <a href="https://jakarta.ee/specifications/portlet/" target="_blank">Jakarta Portlet</a> and <a href="https://jakarta.ee/specifications/portlet-bridge/" target="_blank">Jakarta Portlet Bridge</a>.
-		</td>
-	</tr>
-</table>
-
-<p/>
-
-<table style="width: auto; border-width: 0">
-	<tr>
-		<td>
-			This presentation will provide help you get started using Jakarta EE 11 with working examples along with a sneak peek at what you can expect in Jakarta EE 12.
+			However, it is possible to monitor your event-based systems with distributed tracing and OpenTelemetry.
+			You can then analyze and visualize your traces in an open source distributed tracing tool like Jaeger or a full observability platform like New Relic.
+			In this talk I will leverage a simple application to show how you can achieve this.
 		</td>
 	</tr>
 </table>

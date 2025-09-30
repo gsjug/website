@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -483,6 +484,9 @@
       <workItem from="1757433110204" duration="2112000" />
       <workItem from="1757453339674" duration="244000" />
       <workItem from="1757493058778" duration="4725000" />
+      <workItem from="1758573250225" duration="552000" />
+      <workItem from="1758753146674" duration="334000" />
+      <workItem from="1758795259187" duration="1082000" />
     </task>
     <servers />
   </component>
