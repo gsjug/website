@@ -9,12 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/2025/nov2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2025/nov2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meetings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meetings/2026/jan2026.html" beforeDir="false" afterPath="$PROJECT_DIR$/meetings/2026/jan2026.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/bhupendra-mishra.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/bhupendra-mishra.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -498,7 +494,7 @@
       <workItem from="1759836767060" duration="352000" />
       <workItem from="1760389393338" duration="1436000" />
       <workItem from="1760461747876" duration="1013000" />
-      <workItem from="1760521696536" duration="2688000" />
+      <workItem from="1760521696536" duration="3875000" />
     </task>
     <servers />
   </component>
