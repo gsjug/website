@@ -122,14 +122,14 @@
             <div class="col-lg-6 col-md-6 mx-auto">
                 <div class="site-heading">
                     <h2 class="post-title">Next Meeting <a href="#navigation" class="page-scroll"></a></h2>
-                    <h3><i class="far fa-calendar"></i> Tuesday, January 13, 2026</h3>
+                    <h3><i class="far fa-calendar"></i> Tuesday, February 10, 2026</h3>
                     <h3><i class="far fa-clock"></i> <strong>6:30-8:30pm</strong> EDT</h3>
                     <p/>
-                    <h4>The Art of Debugging in the Era of AI</h4>
-                    <h5>presented by <a href="./profiles/bhupendra-mishra.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Bhupendra Mishra"><u>Bhupendra Mishra</u></a></h5>
+                    <h4>The Jakarta Agentic AI Specification - Status and Future</h4>
+                    <h5>presented by <a href="./profiles/reza-rahman.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Reza Rahman"><u>Reza Rahman</u></a></h5>
                     <h4><a href="./meetings/directions-to-dorothy-young-center.html" target="_blank" class="text-warning"><u>Dorothy Young Center for the Arts at Drew University</u></a></h4>
                     <h5 class="text-warning">(with an option to attend on-line)</h5>
-                    <h5><i class="fa fa-hand-o-right"></i> Click <a href="https://www.eventbrite.com/e/the-art-of-debugging-in-the-era-of-ai-tickets-1979532709622?aff=oddtdtcreator" target="_blank" class="text-white"><u>HERE</u></a> to register via EventBrite</h5>
+                    <!-- <h5><i class="fa fa-hand-o-right"></i> Click <a href="https://www.eventbrite.com/e/the-art-of-debugging-in-the-era-of-ai-tickets-1979532709622?aff=oddtdtcreator" target="_blank" class="text-white"><u>HERE</u></a> to register via EventBrite</h5> -->
                     <a href="#next-meeting" target="_blank" class="btn btn-outline-secondary rounded text-white">Learn More About Our Next Meeting</a>
                     <p/>
                     <h5><i class="fa fa-hand-o-right">&nbsp;</i>Interested in sponsoring us? Check out our <a href="./sponsors" target="_blank" class="text-white"><u>Sponsors</u></a> page to learn more!</h5>
@@ -151,43 +151,46 @@
             <div class="post-preview">
                 <h2 class="post-title">Next Meeting <a href="#navigation" class="page-scroll"><i class="fas fa-arrow-alt-circle-up"></i></a></h2>
                 <p/>
-                <h3>The Art of Debugging in the Era of AI</h3>
+                <h3>The Jakarta Agentic AI Specification - Status and Future</h3>
                 <h4 style="text-align: center">Abstract</h4>
                 <p class="post-subtitle">
-                    This talk addresses one of the most critical yet underappreciated skills in software development: debugging.
-                    While AI-assisted coding tools can accelerate development, they also introduce new challenges.
-                    From code that developers may not fully understand to subtle errors that escape regular testing cycles.
-                    Every AI-generated line of code still needs to be tested, validated, and verified before reaching production, making strong debugging skills more essential than ever.
+                    AI agents are one of the most prominent developments in enterprise and cloud native computing in decades.
+                    They promise to fundamentally accelerate innovation, automation, and productivity by leveraging AI in virtually every industry.
+                    Agents operate by leveraging Neural Networks, Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLMs), and many other AI technologies to aim to perform specific tasks autonomously with little or no human intervention.
+                    They detect events, gather data, generate self-correcting plans, execute actions, process results, and evolve subsequent decisions.
+                    Examples include self-driving cars, security monitors, Site Reliability Engineering (SRE) agents, stock monitors, code/application generators, health monitors, customer service agents, manufacturing robots, and many others.
                 </p>
                 <p class="post-subtitle">
-                    Drawing on real-world experience solving complex production issues, this session will share practical approaches, proven techniques, and modern tools for effective debugging.
-                    It will emphasize debugging not as a reactive activity but as a systematic process for identifying root causes and building confidence in solutions.
+                    The <a href="https://jakarta.ee/specifications/agentic-ai/" target="_blank">Jakarta Agentic AI</a> specification aims to provide a set of APIs that make it easy, consistent, and reliable to build, deploy, and run AI agents on Jakarta EE runtimes.
+                    The technology aims to do for developing AI agents what <a href="https://jakarta.ee/specifications/servlet/" target="_blank">Jakarta Servlet</a> did for HTTP processing, <a href="https://jakarta.ee/specifications/restful-ws/" target="_blank">Jakarta REST</a> did for RESTful web services, or perhaps most appropriately, <a href="https://jakarta.ee/specifications/batch/">Jakarta Batch</a> did for batch processing.
+                    It defines common usage patterns/life cycles for AI agents, provides a very minimal LLM facade, allows defining dynamic agent workflows that can change at runtime, integrates with other key Jakarta EE APIs such as
+                    <a href="https://jakarta.ee/specifications/cdi/" target="_blank">CDI</a>, <a href="https://jakarta.ee/specifications/bean-validation/" target="_blank">Validation</a>, <a href="https://jakarta.ee/specifications/jsonb/" target="">JSON Binding</a>, <a href="https://jakarta.ee/specifications/persistence/" target="_blank">Persistence</a>, <a href="https://jakarta.ee/specifications/messaging/" target="_blank">Messaging</a>, and much, much more.
+                </p>
+                <h4 style="text-align: center">Reza Rahman</h4>
+                <p class="post-subtitle">
+                    <a href="https://www.linkedin.com/in/javareza" target="_blank">Reza Rahman</a> is an accomplished technologist with decades of experience in leadership, architecture, engineering, and consulting.
+                    He is recognized worldwide as a thought leader in the enterprise Java space.
+                    He has worked with Java since its inception, including working as a key technologist in Oracle’s and Microsoft’s Java teams.
                 </p>
                 <p class="post-subtitle">
-                    The talk will cover three core areas: <strong>mindset</strong>, <strong>techniques</strong>, and <strong>tools</strong>.
-                    I will share how ChatGPT and other LLMs can help with analyzing error messages and exceptions.
-                    I will also introduce various other tools e.g., Charles Proxy, Datadog, Postman that assist during the debugging process.
+                    He is the author of the popular book, <a href="https://www.manning.com/books/ejb-3-in-action" target="_blank">EJB 3 in Action</a>, from Manning Publishing.
+                    Reza has long been a frequent speaker at Java User Groups and conferences worldwide including JakartaOne, Devnexus, and JavaOne.
+                    He has been the lead for the Java EE track at JavaOne as well as a JavaOne Rock Star Speaker award recipient.
+                    He was the program chair for the inaugural <a href="https://jakartaone.org/" target="_blank">JakartaOne</a> conference.
                 </p>
                 <p class="post-subtitle">
-                    Attendees will leave with clear, actionable strategies to debug smarter, faster, and more confidently, and to adapt their skills for success in an AI-driven development landscape.
-                </p>
-                <h4 style="text-align: center">Bhupendra Mishra</h4>
-                <p class="post-subtitle">
-                    <a href="https://www.linkedin.com/in/bhupendram/" target="_blank">Bhupendra Mishra</a>  is a seasoned software engineer with nearly 20 years of experience building scalable systems across industries.
-                    He is currently a Senior Staff Software Engineer at <a href="https://www.siriusxm.com/" target="_blank">SiriusXM</a>.
-                </p>
-                <p class="post-subtitle">
-                    He has led mobile development, system architecture, and microservice transformations.
-                    Bhupendra approaches each challenge with a blend of deep technical insight and a strong sense of purpose, always focused on building systems that stand the test of time.
-                </p>
-                <p class="post-subtitle">
+                    Reza has been a member of the Java EE, EJB and JMS expert groups over the years.
+                    Reza implemented the EJB container for the Resin open source Java EE application server.
+                    He represented Microsoft at the Jakarta EE and MicroProfile steering committees.
+                    He helps lead the <a href="https://www.meetup.com/phillyjug/" target="_blank">Philadelphia Java User Group</a>.
+                    Reza is proud to be a founding member of the <a href="https://jakartaee-ambassadors.io/" target="_blank">Jakarta EE Ambassadors</a>.
                 </p>
             </div>
-            <h4 style="text-align: center">Click <a href="https://www.eventbrite.com/e/the-art-of-debugging-in-the-era-of-ai-tickets-1979532709622?aff=oddtdtcreator" target="_blank"><u>HERE</u></a> to register via EventBrite</h4>
+            <!-- <h4 style="text-align: center">Click <a href="https://www.eventbrite.com/e/the-art-of-debugging-in-the-era-of-ai-tickets-1979532709622?aff=oddtdtcreator" target="_blank"><u>HERE</u></a> to register via EventBrite</h4> -->
         </div>
         <div class="col-lg-6 col-md-6 mx-auto">
             <p class="bs-docs-sidebar circular-image" style="text-align: center">
-                <img src="./images/bhupendra-mishra.jpg" alt="Bhupendra Mishra" />
+                <img src="./images/reza_rahman.jpg" alt="Reza Rahman" />
             </p>
             <p class="bs-docs-sidebar">
                 <a class="twitter-timeline" href="https://twitter.com/GardenStateJUG" data-widget-id="722096510398148608">Tweets by @gsjug</a>
