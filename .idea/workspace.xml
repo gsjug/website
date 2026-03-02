@@ -11,7 +11,121 @@
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../static/js/Xtag/xtag.js" beforeDir="false" afterPath="$PROJECT_DIR$/../static/js/Xtag/xtag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/screen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.progressbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.resizable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.selectable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/jquery.ui.tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.accordion.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.autocomplete.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.button.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.core.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.dialog.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.menu.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.progressbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.resizable.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.selectable.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.slider.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.spinner.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.tabs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/themes/base/minified/jquery.ui.tooltip.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/accent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/file_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/gettingstarted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/heroAccent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/image_link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/image_link_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/logo-no-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/mobile_gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/orderedList9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/web-x-ten-logo-sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/web-x-ten-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/Xtag/Add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/Xtag/xtag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/_references.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery-1.8.2.intellisense.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery-1.8.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery-ui-1.9.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery-ui-1.9.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.unobtrusive-ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.unobtrusive-ajax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.validate-vsdoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.validate.unobtrusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/knockout-2.2.0.debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/knockout-2.2.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/modernizr-2.6.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/js/shadowbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/test.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../uploads/.uploaddir" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../views/XtagApp.py" beforeDir="false" />
@@ -524,6 +638,7 @@
       <workItem from="1771349916733" duration="4916000" />
       <workItem from="1771446797235" duration="1061000" />
       <workItem from="1771497869929" duration="1609000" />
+      <workItem from="1772050838830" duration="4027000" />
     </task>
     <servers />
   </component>
