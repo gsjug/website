@@ -1,8 +1,8 @@
 .circular-image img {
-    width: 300px;
-    height: 300px;
-    -webkit-border-radius: 150px;
-    -moz-border-radius: 150px;
-    -ms-border-radius: 150px;
-    -o-border-radius: 150px; border-radius: 150px;
+    width: 230px;
+    height: 230px;
+    -webkit-border-radius: 115px;
+    -moz-border-radius: 115px;
+    -ms-border-radius: 115px;
+    -o-border-radius: 115px; border-radius: 115px;
     }
