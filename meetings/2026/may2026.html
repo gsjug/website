@@ -24,7 +24,7 @@
 		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold">May 12, 2026</td>
 	</tr>
 	<tr style="background-color: #000066">
-		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Unlocking Contextual Intelligence in Geospatial Monitoring: A Converged Spatial + AI Vector Approach with Oracle Database 26ai</td>
+		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">When "Where" Isn't Enough: Solving Real-World Problems with Behavioral Vectors</td>
 	</tr>
 </table>
 
@@ -43,9 +43,8 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			Traditional geospatial monitoring systems excel at enforcing boundaries through proven technologies like Oracle Spatial, but they represent a foundation with tremendous unlocked potential.
-			What if these systems could distinguish between routine events - like a vehicle rerouted through a restricted zone - and genuine risk behaviors - like loitering near that same zone?
-			This is the promise of contextual intelligence.
+			Traditional location tracking systems are great at answering "where," but fail to answer "what is happening?"
+			This creates a massive problem in real-world software engineering: operators are flooded with false alerts because a safe, normal event (like driving past a school) triggers the exact same alarm as a genuine threat (like loitering near a school).
 		</td>
 	</tr>
 </table>
@@ -55,8 +54,35 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			This session introduces <code>Prescience</code>, a proof-of-concept system that demonstrates how Oracle Database 26ai's converged architecture transforms geospatial monitoring from reactive boundary enforcement into a proactive digital partner for security and parole officers.
-			By fusing native Spatial capabilities with AI Vector Search in a single, streamlined workflow, we show how to enhance existing geofencing with behavioral pattern recognition.
+			In this talk, we'll solve this context problem by building a practical, hands-on application of vector spaces.
+			While vectors are incredibly popular right now for LLMs and text search, we will look at how to encode physical behavior - like speed, dwell time, and proximity - into a simple, 3-dimensional vector space.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table style="width: auto; border-width: 0">
+	<tr>
+		<td>
+			You don't need any prior experience with spatial data to follow along.
+			Using Oracle AI Database 26ai, we will walk through the database architecture and SQL required to combine basic location tracking with AI Vector Search.
+			By the end of the session, you'll see how creating a simple vector space can reduce alert noise by up to 90% in high-stakes environments like parolee tracking and museum security.
+		</td>
+	</tr>
+</table>
+
+<p/>
+
+<table style="width: auto; border-width: 0">
+	<tr>
+		<td>
+			What you will learn:
+			<ul>
+				<li><strong>Applied Vector Spaces:</strong> How to design and create a simple behavioral vector to solve a tangible logic problem</li>
+				<li><strong>The Context Gap:</strong> Why raw location data isn't enough, and how encoding behavior fixes it.</li>
+				<li><strong>Code in Action:</strong> A practical look at fusing spatial filters (<code>SDO_GEOMETRY</code>) and vector math (<code>VECTOR_DISTANCE</code>) in a single query to prioritize real threats without missing true positives.</li>
+			</ul>
 		</td>
 	</tr>
 </table>
