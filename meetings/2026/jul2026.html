@@ -24,7 +24,7 @@
 		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold">July 8, 2026</td>
 	</tr>
 	<tr style="background-color: #000066">
-		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Loominated Java</td>
+		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Finding and Crushing Bugs and More with JFR</td>
 	</tr>
 </table>
 
@@ -43,9 +43,9 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			<a href="https://openjdk.org/jeps/444" target="_blank">Virtual Threads</a>, the central feature of <a href="https://wiki.openjdk.org/spaces/loom/pages/37191722/Main" target="_blank">Project Loom</a>, were released as a final feature in JDK 21!
-			As great as virtual threads are, it's just the start of the story for Project Loom.
-			With the vastly reduced cost of creating threads, comes new opportunities.
+			Some of the most difficult issues a developer will face are slow developing resources leaks, or errors that occur at infrequent intervals.
+			When these happen, finding the root cause can be difficult, and a frequent recourse by developers is to add a lot of logging statements around suspected problem sites.
+			What if I told you there was a better option, and that option already existed right in the JVM you are already running?
 		</td>
 	</tr>
 </table>
@@ -55,16 +55,8 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			In this presentation we will look at the two other major features to be delivered by Project Loom; <a href="https://openjdk.org/jeps/533" target="_blank">Structured Concurrency</a> and <a href="https://openjdk.org/jeps/506" target="_blank">Scoped Values</a>, and how they will significantly improve the developer experience of writing, running, and debugging code the executes concurrently.
-		</td>
-	</tr>
-</table>
-
-<p/>
-
-<table style="width: auto; border-width: 0">
-	<tr>
-		<td>
+			<a href="https://dev.java/learn/jvm/jfr/" target="_blank">JDK Flight Recorder</a> (JFR), as its namesake suggests, is a low-overhead profiling and diagnostic tool that's been built directly into the JDK since JDK 7.
+			In this presentation we are going to look at how developers can leverage JFR's powerful API and reporting tools for tracking down those difficult bugs as well as how JFR can be incorporated into the development process.
 		</td>
 	</tr>
 </table>
