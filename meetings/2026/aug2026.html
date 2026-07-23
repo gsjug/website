@@ -24,7 +24,7 @@
 		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold">August 5, 2026</td>
 	</tr>
 	<tr style="background-color: #000066">
-		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Keeping Your Java Hot by Solving the JVM Startup and Warmup Problem -OR- Modern Java Puzzlers</td>
+		<td style="font-family: 'Lucida Grande'; font-size: 18pt; font-weight: bold; color: #ffffff">Keeping Your Java Hot by Solving the JVM Startup and Warmup Problem</td>
 	</tr>
 </table>
 
@@ -43,7 +43,9 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-			Please stay tuned for details...
+			Java bytecodes and class files deliver on the original vision of "write once, run anywhere."
+			Using a Just-in-Time (JIT) compiler allows JVM-based applications to compile only the code that's used frequently and optimise it precisely for how it's used.
+			Using techniques like speculative optimisation can often deliver better performance than static, <a href="https://openjdk.org/jeps/8335368" target="_blank">Ahead-of-Time</a> (AOT) compiled code.
 		</td>
 	</tr>
 </table>
@@ -53,6 +55,9 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
+			However, this flexibility and performance come at a cost.
+			Each time the JVM starts an application, it must perform the same analysis to identify hot spots in the code and compile them.
+			This is referred to as the application warmup time.
 		</td>
 	</tr>
 </table>
@@ -62,6 +67,27 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
+			In this session, we'll look at several approaches to alleviating or even eliminating this problem.
+			Specifically:
+			<ul>
+				<li>
+					Static compilation of Java code Ahead-of-Time (AOT).
+					Specifically, the Graal native image approach.
+				</li>
+				<li>
+					Generating a JIT compiler profile of a running, warmed-up application that can be reused when the same application is restarted, eliminating the need for much of the JIT compilation.
+					This will include details of the work of the OpenJDK <a href="https://openjdk.org/projects/leyden/" target="_blank">Project Leyden</a>.
+				</li>
+				<li>
+					Decoupling the JIT compiler from the JVM for a Cloud environment.
+					Providing a centralised JIT-as-a-Service allows caching of compiled code and offloading the compilation work when new code must be compiled.
+				</li>
+				<li>
+					Creating a checkpoint of a running application.
+					This includes all application state (heap, stack, etc.) in addition to the JIT-compiled code.
+					<a href="https://wiki.openjdk.org/spaces/crac/overview" target="_blank">Project CRaC</a> will be used as an example.
+				</li>
+			</ul>
 		</td>
 	</tr>
 </table>
@@ -71,15 +97,7 @@
 <table style="width: auto; border-width: 0">
 	<tr>
 		<td>
-		</td>
-	</tr>
-</table>
-
-<p/>
-
-<table style="width: auto; border-width: 0">
-	<tr>
-		<td>
+			At the end of the session, you'll be all set to keep your Java hot!
 		</td>
 	</tr>
 </table>

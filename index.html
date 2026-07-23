@@ -127,8 +127,6 @@
                     <h3><i class="far fa-clock"></i> <strong>6:30-8:30pm</strong> EDT</h3>
                     <p/>
                     <h4>Keeping Your Java Hot by Solving the JVM Startup and Warmup Problem</h4>
-                    <h5>-- OR --</h5>
-                    <h4>Modern Java Puzzlers</h4>
                     <h5>presented by <a href="./profiles/simon-ritter.html" target="_blank" class="text-white" onclick="openRequestedPopup(this.href,this.target); return false;" title="Simon Ritter"><u>Simon Ritter</u></a></h5>
                     <h4><a href="./meetings/directions-to-dorothy-young-center.html" target="_blank" class="text-warning"><u>Dorothy Young Center for the Arts at Drew University</u></a></h4>
                     <h5 class="text-warning">(with an option to attend on-line)</h5>
@@ -154,14 +152,43 @@
             <div class="post-preview">
                 <h2 class="post-title">Next Meeting <a href="#navigation" class="page-scroll"><i class="fas fa-arrow-alt-circle-up"></i></a></h2>
                 <p/>
-                <h3>Keeping Your Java Hot by Solving the JVM Startup and Warmup Problem --OR-- Modern Java Puzzlers</h3>
+                <h3>Keeping Your Java Hot by Solving the JVM Startup and Warmup Problem</h3>
                 <h4 style="text-align: center">Abstract</h4>
                 <p class="post-subtitle">
-                    Please stay tuned for details
+                    Java bytecodes and class files deliver on the original vision of "write once, run anywhere."
+                    Using a Just-in-Time (JIT) compiler allows JVM-based applications to compile only the code that’s used frequently and optimise it precisely for how it's used.
+                    Using techniques like speculative optimisation can often deliver better performance than static, <a href="https://openjdk.org/jeps/8335368" target="_blank">Ahead-of-Time</a> (AOT) compiled code.
                 </p>
                 <p class="post-subtitle">
+                    However, this flexibility and performance come at a cost.
+                    Each time the JVM starts an application, it must perform the same analysis to identify hot spots in the code and compile them.
+                    This is referred to as the application warmup time.
                 </p>
                 <p class="post-subtitle">
+                    In this session, we’ll look at several approaches to alleviating or even eliminating this problem.
+                    Specifically:
+                    <ul>
+                        <li>
+                            Static compilation of Java code Ahead-of-Time (AOT).
+                            Specifically, the Graal native image approach.
+                        </li>
+                        <li>
+                            Generating a JIT compiler profile of a running, warmed-up application that can be reused when the same application is restarted, eliminating the need for much of the JIT compilation.
+                            This will include details of the work of the OpenJDK <a href="https://openjdk.org/projects/leyden/" target="_blank"><u>Project Leyden</u></a>.
+                        </li>
+                        <li>
+                            Decoupling the JIT compiler from the JVM for a Cloud environment.
+                            Providing a centralised JIT-as-a-Service allows caching of compiled code and offloading the compilation work when new code must be compiled.
+                        </li>
+                        <li>
+                            Creating a checkpoint of a running application.
+                            This includes all application state (heap, stack, etc.) in addition to the JIT-compiled code.
+                            <a href="https://wiki.openjdk.org/spaces/crac/overview" target="_blank"><u>Project CRaC</u></a> will be used as an example.
+                        </li>
+                    </ul>
+                </p>
+                <p class="post-subtitle">
+                    At the end of the session, you’ll be all set to keep your Java hot!
                 </p>
                 <h4 style="text-align: center">Simon Ritter</h4>
                 <p class="post-subtitle">
