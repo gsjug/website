@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reveal.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reveal.js/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -699,7 +699,8 @@
       <workItem from="1788438696066" duration="2332000" />
       <workItem from="1788515889745" duration="1504000" />
       <workItem from="1788687464073" duration="615000" />
-      <workItem from="1788989332037" duration="640000" />
+      <workItem from="1788989332037" duration="881000" />
+      <workItem from="1789561483008" duration="4287000" />
     </task>
     <servers />
   </component>
