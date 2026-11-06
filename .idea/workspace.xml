@@ -8,8 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../tcfpro/img/chandra-guntur.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile_photos/cropped/matt-florez-cropped.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile_photos/cropped/matt-florez-cropped.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/Xtag.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../service.py" beforeDir="false" />
@@ -708,7 +706,7 @@
       <workItem from="1792596089858" duration="3433000" />
       <workItem from="1793176613388" duration="373000" />
       <workItem from="1793648071842" duration="1504000" />
-      <workItem from="1793701763721" duration="192000" />
+      <workItem from="1793701763721" duration="505000" />
     </task>
     <servers />
   </component>
